@@ -318,6 +318,9 @@ whilst a nearly closed cell, seems to follow the open cell relationships quite w
 136,"Z Dai, K Nawaz, Y Park, Q Chen",61,2012,No,Heat Transfer …,"Z Dai, K Nawaz, Y Park, Q Chen… - Heat Transfer …, 2012 - Taylor & Franci","… cooling applications. Boomsma and Poulikakos [3, 4] developed a one-dimensional
 heat conduction model for use with open-cell metal foams, based on an idealized
 three-dimensional cell geometry of the foam. Their model …",A comparison of metal-foam heat exchangers to compact multilouver designs for air-side heat transfer applications
+137,HJ Sterze,29,2001,No,US Patent 6,"HJ Sterzel - US Patent 6,171,532, 2001 - Google Patent","… JP-A 2 290 211 describes a process for producing ceramic metal melt filters in which resin … of the
+material are changed during foaming in such a way that the open pore structure is … and no longer
+collapse, although the stabilizing pressure difference is eliminated on cell opening …",Method of stabilizing sintered foam and of producing open-cell sintered foam parts
 138,"P Khayargoli, V Loya, LP Lefebvre, M Medra",79,2004,[PDF] researchgate.net,CSME forum,"P Khayargoli, V Loya, LP Lefebvre, M Medraj - CSME forum, 2004 - researchgate.net","… Page 5. 6. RESULTS AND DISCUSSION 5.2 IMI Metal Foam Open cell IMIMF samples were
 made using a powder metallurgy approach [24]. Figure 4 shows the microstructure of the IMIMF
 foams. IMIMF samples tested are listed in Table 2. 6.1 RMF Results …",[PDF][PDF] The impact of microstructure on the permeability of metal foams
@@ -457,7 +460,6 @@ models, then … 2. Characterisation of metal foams produced by the SRFS-proces
 be chosen with selected metals, depending on the morphology (closed cell or open cell structure),
 density and cell size desired … Open cells metal foams present structures …",Thermal behavior of open cell aluminum foams in forced air: experimental analysis
 186,"S Arnaboldi, P Bassani, F Passaretti, A Redaelli",15,2011,No,Journal of materials …,"S Arnaboldi, P Bassani, F Passaretti, A Redaelli… - Journal of materials …, 2011 - Springer","In the recent years, the research for novel materials with tailored mechanical properties, as well as functional properties, has encouraged the study of porous and cellular materials. Our previous work proposed and reported about the possibility to manufacture open-cell metal ",Functional Characterization of shape memory CuZnAl open-cell foams by molten metal infiltration
-187,"N Dukhan, M Al",9 R,2012,No,International Journal of Transport …,"N Dukhan, M Ali - International Journal of Transport …, 2012 - search.ebscohost.com","Flow regimes are important for understanding the nature of fluid flow and pressure drop in metal foam. While they are well-studied and agreed upon for open pipe flow and, to an extent, for traditional porous media, this is not the case for flow in open-cell metal foam. This",On Various Flow Regimes in Open-Cell Metal Foam.
 188,"M Saber, TT Huu, C Ph",37,2012,[PDF] researchgate.net,uu,"M Saber, TT Huu, C Pham-Huu, D Edouard - Chemical Engineering …, 2012 - Elsevier","… be observed that the highest mass transfer coefficient is obtained for the open-cell foam exhibiting
 the … investigations including tri-phasic (gas–liquid–solid) transfer phenomena through different
 open-cell foams is required … [1] L. TianjianUltraligh porous metal: from fundamentals …","Residence time distribution, axial liquid dispersion and dynamic–static liquid mass transfer in trickle flow reactor containing β-SiC open-cell foams"
@@ -515,7 +517,6 @@ the comparison between anisotropic mechanical properties of closed-cell Al foams
 208,"JB Li, HC Lin, JSC Jang, CN Kuo, JC Huan",23,2013,[PDF] nsysu.edu.tw,Materials Letters,"JB Li, HC Lin, JSC Jang, CN Kuo, JC Huang - Materials Letters, 2013 - Elsevier","… Metallic foam materials could exhibit properties like high compressive plastic strain and high
 energy absorption … model, the structure of the porous material is simplified to an open-cell porous
 material … It is assumed that the deformation of the porous metal is dominated by the …",Novel open-cell bulk metallic glass foams with promising characteristics
-209,"A Arbak, N Dukhan, Ö Bağcı, M Özdemi",9 R,2017,No,Experimental Thermal and Fluid …,"A Arbak, N Dukhan, Ö Bağcı, M Özdemir - Experimental Thermal and Fluid …, 2017 - Elsevier","Herein heat transfer measurements due to water flow in commercial open-cell aluminum foam confined by a cylindrical shell, which was heated by a constant heat flux, are described. Two kinds of commercial foam were tested: 10 and 40 pores per inch (ppi)",Influence of pore density on thermal development in open-cell metal foam
 210,F Garc,93,2016,[PDF] mdpi.com,oren,"F García-Moreno - Materials, 2016 - mdpi.com","… The resulting nickel metal foam, after being heat treated, is used in applications where high
 electrical … to be resistant to the high temperatures of the corresponding molten metal and be … later
 to the pores and pore interconnections, respectively, leading to an open cell structure …",Commercial applications of metal foams: Their properties and production
@@ -545,7 +546,6 @@ dissipation and catalyst support, the cells need to be open and small …",Mech
 220,"A Inayat, M Klumpp, M Lämmermann, H Freund",39,2016,No,Chemical Engineering …,"A Inayat, M Klumpp, M Lämmermann, H Freund… - Chemical Engineering …, 2016 - Elsevier","… surface area, high mechanical strength, excellent thermal conductivity (eg metal and SiC … work
 to develop a general pressure drop correlation for open-cell foams completely based … the pressure
 drop prediction solely based on easily measurable geometric foam properties and …",Development of a new pressure drop correlation for open-cell foams based completely on theoretical grounds: Taking into account strut shape and geometric …
-221,"TH Kim, W Lee, JH Jeon",9 R,2014,No,International Journal of Hydrogen Energy,"TH Kim, W Lee, JH Jeong - International Journal of Hydrogen Energy, 2014 - Elsevier",A porous metal was suggested to be used for the anode of a DCFC. Thermo-fluidic characteristics of fuel-electrolyte mixture in the porous metal should be known in order for proper design of the anode. Previous researchers investigated pressure drop and heat,"Thermo-fluidic characteristics of open cell metal foam as an anodes for DCFC, part I: Head loss coefficient of metal foam"
 222,"AJ Fuller, T Kim, HP Hodson",55,2005,[PDF] psu.edu,Proceedings of the …,"AJ Fuller, T Kim, HP Hodson… - Proceedings of the …, 2005 - journals.sagepub.com","… 3 MODELLING THE FOAM STRUCTURE The thermal and hydraulic behaviour of open-cell metal
 foams is governed by such features of the foam structure as the ligament and pore diameters. The
 FeCrAlY foams have hollow ligaments owing to the sintering process …",Measurement and interpretation of the heat transfer coefficients of metal foams
@@ -643,7 +643,6 @@ periodic unit cell reconstruction of open-cell foams developed by De …",Compa
 256,"SK Mohammadian, SM Rassoulinej",50,2015,No,ousavi,"SK Mohammadian, SM Rassoulinejad-Mousavi… - Journal of Power …, 2015 - Elsevier","… For comparing the thermal behavior of the battery cell at different cases, and also observing the
 effects of the metal foam properties, the energy cost … d U d T ). where Q ˙ is the heat generation
 rate, I is the electric current passing through the unit cell, U is the open-circuit voltage …",Thermal management improvement of an air-cooled high-power lithium-ion battery by embedding metal foam
-257,"N Dukhan, Ö Bağcı, LA Kavurmacıoğl",9 R,2015,No,Experimental Thermal and Fluid …,"N Dukhan, Ö Bağcı, LA Kavurmacıoğlu - Experimental Thermal and Fluid …, 2015 - Elsevier","Heat transfer due to oscillating water flow in open-cell aluminum-foam pipe subjected to constant wall heat flux was investigated experimentally. The foam had 20 pores per inch and a porosity of 87.6%. Three flow displacements 1.5, 1.9 and 2.2 pipe diameters, at kinetic",Effect of frequency on heat transfer due to oscillating water flow in open-cell metal foam: An experimental study
 258,"H Vandeparre, Q Liu, IR Minev, Z Suo",47,2013,[PDF] epfl.ch,Advanced …,"H Vandeparre, Q Liu, IR Minev, Z Suo… - Advanced …, 2013 - Wiley Online Library","… At ϵ appl = 20%, the local strain in the metal film on the plain PU is uniform and equal to ϵ appl …
 g) Schematic of an open cell with the vertical axis aligned with the foam rise direction labeled with
 the cell's height H, width W and wall thickness t; the table reports the …",Localization of folds and cracks in thin metal films coated on flexible elastomer foams
@@ -724,7 +723,6 @@ example, by Shinko Wire (trade name Alporas), Alcan, and Cymat …",Influence o
 285,"JJ Oren, KM Gough, HD Gesse",38,1979,[PDF] nrcresearchpress.com,Canadian Journal of …,"JJ Oren, KM Gough, HD Gesser - Canadian Journal of …, 1979 - NRC Research Pre","… 1989. Extraction of uranyl nitrate from aqueous nitrate solutions by open cell polyurethane
 foam sponge (OCPUFS) … 1986. The Ion-Association Sorption and Extraction of Metal
 Thiocyanate Complexes to Cellulose Acetate Polymer and Organic Solvents …",The solvent extraction of Fe (III) from acidic chloride solutions by open cell polyurethane foam sponge (OCPUFS)
-286,"H Hu, Z Lai, X Weng, G Ding, D Zhuan",8 R,2017,No,Applied Thermal Engineering,"H Hu, Z Lai, X Weng, G Ding, D Zhuang - Applied Thermal Engineering, 2017 - Elsevier","Open-cell metal foam may improve the dehumidifying performance of the heat exchanger due to its high specific surface area, and the dehumidifying mechanism should be known for optimizing metal foam heat exchangers. In the present study, a numerical model for",Numerical model of dehumidifying process of wet air flow in open-cell metal foam
 287,"A Jung, H Natter, S Diebels, E Lach",41,2011,[PDF] researchgate.net,Advanced …,"A Jung, H Natter, S Diebels, E Lach… - Advanced …, 2011 - Wiley Online Library","… Open cell metal foams can be described as a three‐dimensional structural frame, bar construction,
 built of the struts, and the nodes of the foam. The structural frame absorbs external loadings
 on the frame and dissipates the loading over the struts of the foam …",Nanonickel coated aluminum foam for enhanced impact energy absorption
@@ -751,7 +749,6 @@ foam webs. The novel foams or foam elements are open-cell, have a narrow …","
 296,"H Ke, Y Donghui, H Siyuan",20,2011,[PDF] researchgate.net,Journal of Physics D …,"H Ke, Y Donghui, H Siyuan… - Journal of Physics D …, 2011 - iopscience.iop.org","… resistance and the corresponding sound absorption capacity is higher than those of foams C
 and D … which prevents high reflection rates of incident sound wave while making the metal foam
 have good … In the case of open-cell Al foam with graded pore size fabricated in this study …",Acoustic absorption properties of open-cell Al alloy foams with graded pore size
-297,"Y Yao, H Wu, Z Li",8 R,2017,[PDF] researchgate.net,Journal of Heat Transfer,"Y Yao, H Wu, Z Liu - Journal of Heat Transfer, 2017 - … .asmedigitalcollection.asme.org","In this paper, a numerical model employing an approximately realistic three-dimensional (3D) foam structure represented by Weaire–Phelan foam cell is developed to study the steady-state heat conduction of high porosity open-cell metal foam/paraffin composite at the",Pore scale investigation of heat conduction of high porosity open-cell metal foam/paraffin composite
 298,"H Zhang, WJ Suszynski, KV Agrawal",23,2012,[PDF] academia.edu,Industrial & …,"H Zhang, WJ Suszynski, KV Agrawal… - Industrial & …, 2012 - ACS Publicatio","… Solid foams, manufactured from metal, ceramic, polymer, or carbon have a variety of applications …
 as heat exchangers, energy absorbers, high temperature filters, electron emitters, fuel cell
 electrodes, and … closed celled foam, in which the cells are isolated, and open celled foam …",Coating of open cell foams
@@ -812,7 +809,6 @@ the strain localization of 45 ppi foam is more severe than for the 30 ppi foams�
 317,"F Han, G Seiffert, Y Zhao, B Gibb",136,2003,[PDF] researchgate.net,Journal of Physics D: Applied …,"F Han, G Seiffert, Y Zhao, B Gibbs - Journal of Physics D: Applied …, 2003 - iopscience.iop.org","… and glass wool, mainly because of the low intrinsic damping of the rigid cell walls [9 … These metal
 foams have a low noise reduction coefficient (NRC) in most conditions [11 … However, very little
 information on the sound absorption characteristics of open-celled metallic foams and …",Acoustic absorption behaviour of an open-celled aluminium foam
-318,"P Kumar, JM Hugo, F Topin",7 R,2012,No,… Conference Proceedings 4,"P Kumar, JM Hugo, F Topin… - … Conference Proceedings 4, 2012 - aip.scitation.org",The thermo-physical behavior of open-celled metal foams depends on their microscopic structure. An ideal periodic isotropic structure of tetrakaidecahedron shape ie Kelvin cell is studied. We have proposed an analytical model in order to obtain geometrical parameters,Influence of pore and strut shape on open cell metal foam bulk properties
 319,"AH Roohi, HM Naeini, MH Gollo, M Soltanpour",17,2015,No,Optics & Laser …,"AH Roohi, HM Naeini, MH Gollo, M Soltanpour… - Optics & Laser …, 2015 - Elsevier","… [26] presented a model that provides the possibility of random distribution of cells in the foam
 structure … They concluded that plastic property control of the material of the cell walls by adding
 a suitable metal is an … [28] developed a method to model open-cell foams with different …",On the random-based closed-cell metal foam modeling and its behavior in laser forming process
@@ -914,6 +910,9 @@ applications include, for example, crash absorbers and foam-filled profiles in 
 353,"A Diani, KK Bodla, L Rossetto, SV Garimell",33,2015,[PDF] purdue.edu,International Journal of Heat …,"A Diani, KK Bodla, L Rossetto, SV Garimella - International Journal of Heat …, 2015 - Elsevier","… [19] numerically identified defects produced during manufacturing of an open-celled metal foam …
 Micro computed tomography images may also be employed as the starting point for CFD analysis.
 Metal foams are inherently stochastic; thus, unit-cell based models only …",Numerical investigation of pressure drop and heat transfer through reconstructed metal foams and comparison against experiments
+354,"P Heinrich, H Krey",42,2002,No,US Patent 6,"P Heinrich, H Kreye - US Patent 6,408,928, 2002 - Google Patent","… Insert molding of bulk amorphous alloy into open cell foam … DE2112751A1 (en) *, 1971-03-17,
+1972-10-05, Metallgesellschaft Ag, Insulating,light-wt foam and metal laminates - by foaming
+plastics powder electrostatically spray coated on one side of metal …",Production of foamable metal compacts and metal foams
 355,"A Salimon, Y Brechet, MF Ashby, AL Gree",75,2005,[PDF] researchgate.net,Journal of materials science,"A Salimon, Y Brechet, MF Ashby, AL Greer - Journal of materials science, 2005 - Springer","… its computer software imple- mentation FAS [9] to explore potential applications for two “virtual”
 materials: open-cell foams of low … where l is the characteristic foam cell size … The cost of new metal
 foams is difficult to estimate, since technologies for foaming steel and titanium dif- fer …",Potential applications for steel and titanium metal foams
@@ -975,7 +974,6 @@ for thermal applications; some were focused on metal-foam heat exchangers (and 
 375,"R Singh, HS Kasan",167,2004,No,Applied thermal engineering,"R Singh, HS Kasana - Applied thermal engineering, 2004 - Elsevier","… KavianyPrinciples of Heat Transfer in Porous Media. Springer, New York (1991). [10] VV Calmidi,
 Transport phenomena in high porosity metal foams, Ph.D … 303-326. [14] AD Sullins, K. Daryabeigi,
 Effective thermal conductivity of high porosity open cell nickel foam, in: 35th …",Computational aspects of effective thermal conductivity of highly porous metal foams
-376,"L Wang, H Li, F Wang, J Re",7 R,2005,[PDF] foundryworld.com,China Foundry,"L Wang, H Li, F Wang, J Ren - China Foundry, 2005 - foundryworld.com","Metal foams are a new kind of materials with low densities and novel physical, mechanical, thermal, electrical and acoustic properties. They can be divided into closed and open cell structures. In this paper the open cell structures, called sponges, were treated. A new",[PDF][PDF] Preparation of open-cell metal foams by investment cast
 377,"Y Hangai, K Zushida, H Fujii, R Ueji",32,2013,[PDF] core.ac.uk,Materials Science and …,"Y Hangai, K Zushida, H Fujii, R Ueji… - Materials Science and …, 2013 - Elsevier","… be clearly observed, which is almost similar to those of other typical metal foams as reported … a
 higher plateau stress but a narrower plateau region than the high-porosity Cu foam … This
 deformation behavior under compression was similar to that of open-cell Cu foam obtained by …",Friction powder compaction process for fabricating open-celled Cu foam by sintering-dissolution process route using NaCl space holder
@@ -995,7 +993,6 @@ geometric parameters of the foam-like structure such as strut width and cell dia
 383,"J Yu, E Wang, J Li, Z Zhen",95,2008,[PDF] ustc.edu.cn,International Journal of Impact Engineering,"J Yu, E Wang, J Li, Z Zheng - International Journal of Impact Engineering, 2008 - Elsevier","… As a new multi-function engineering material, aluminum foams have many useful properties such …
 data are available for the low-velocity impact behavior of metal foam core sandwich … the impact
 behavior and failure mechanism of aluminum face sheet/open-cell aluminum-foam …",Static and low-velocity impact behavior of sandwich beams with closed-cell aluminum-foam core in three-point bending
-384,"A Jung, M Wocker, Z Chen, H Seiber",9 R,2015,No,Materials & Design,"A Jung, M Wocker, Z Chen, H Seibert - Materials & Design, 2015 - Elsevier","Metal foams are cellular materials often used for lightweight construction or as energy absorbers. Coating of open-cell foams improves the mechanical properties by the formation of Ni/Al hybrid foams. The properties are determined by the microstructure, the properties of","Microtensile testing of open-cell metal foams—Experimental setup, micromechanical properties"
 385,"M Alizadeh, M Mirza",53,2012,No,liabad,"M Alizadeh, M Mirzaei-Aliabadi - Materials & Design, 2012 - Elsevier","… The most common metal which was selected for energy absorption applications is aluminum
 and its alloys due to their light weight and the excellent corrosion resistance [5], [6], [7] … Naiqin
 et al. [17] synthesized open cell aluminum foams … Yu et al. [25] produced closed cell AlSi 9 …",Compressive properties and energy absorption behavior of Al–Al2O3 composite foam synthesized by space-holder technique
@@ -1093,7 +1090,6 @@ of the resulting foam “replicate” the initial shape of these space-holder pa
 417,"AM Bayomy, MZ Saghir, T Yousef",32,2016,No,International Journal of Thermal …,"AM Bayomy, MZ Saghir, T Yousefi - International Journal of Thermal …, 2016 - Elsevier","… Zhao et al. [10] studied the thermal dissipation of high porosity metal foams, both
 experimentally and analytically. They … Zhao et al. [11], [5] presented analytical studies
 of forced convection through open cell metal foam. They …",Electronic cooling using water flow in aluminum metal foam heat sink: Experimental and numerical approach
-418,"S Chen, M Bourham, A Rabie",7 R,2014,[PDF] sciencedirect.com,Procedia Materials Science,"S Chen, M Bourham, A Rabiei - Procedia Materials Science, 2014 - Elsevier","A comparison of attenuation effectiveness against gamma rays and thermal neutrons among aluminum A356, close-cell composite metal foams and open-cell Aluminum foam infiltrated with variety of second phase materials were investigated experimentally and theoretically in",Applications of open-cell and closed-cell metal foams for radiation shielding
 419,"L Santo, A Guglielmotti",11,2010,No,ASME 2010 …,"L Santo, A Guglielmotti… - ASME 2010 …, 2010 - … .asmedigitalcollection.asme.org","… in the desired shape and no forming operation was considered. In fact, apart from
 compression, open-cell aluminum foams show a very poor deformation. In order to study
 the metal foam formability, compression tests are typically performed …",Formability of Open-Cell Aluminum Foams by Laser
@@ -1137,9 +1133,6 @@ unit cell structure (RUCS) model for the Open Pore Cellular Foams (OPCF) …",A
 433,"M Odabaee, K Hooma",79,2012,No,Applied Thermal Engineering,"M Odabaee, K Hooman - Applied Thermal Engineering, 2012 - Elsevier","… 735-742. [15] NC Gallego, JW KlettCarbon foams for thermal management. Carbon,
 41 (7) (2003), pp … Journal of Heat Transfer, 129 (3) (2007), pp. 273-281. [19] I.
 GhoshHow good is open-cell metal foam as heat transfer surface …",Metal foam heat exchangers for heat transfer augmentation from a tube bank
-434,ÁR Álvarez Hernánde,8 R,2005,No,200,ÁR Álvarez Hernández - 2005 - dire.uprm.edu,"… cell edges, the large accessible surface area per unit volume, and the ability to mix the cooling
-fluid, all make metal foam heat exchangers efficient, compact and light weight. Although it is proven
-to be very promising, still the use of the open-cell metal foams require extensive …",Combined flow and heat transfer characterization of open cell aluminum foams
 435,"P Chin, X Sun, GW Roberts, JJ Spive",68,2006,No,Applied Catalysis A: General,"P Chin, X Sun, GW Roberts, JJ Spivey - Applied Catalysis A: General, 2006 - Elsevier","… consist of irregular open cells, as seen in Fig. 1[40]. The catalytic material is deposited on the
 metal “webs” via a washcoating process. Foams are characterized by their pores per inch (ppi)
 and cell density (ρ). Pores per inch is the mean number of pores in the foam per linear …",Preferential oxidation of carbon monoxide with iron-promoted platinum catalysts supported on metal foams
@@ -1250,9 +1243,6 @@ have been used in the present study for evaluating the ETC of open-cell porous f
 472,SA Bagsha,52,1999,[PDF] researchgate.net,Chemical Communications,"SA Bagshaw - Chemical Communications, 1999 - pubs.rsc.org","… are formed directly from tetraethoxyorthosilicate (TEOS) or TEOS plus a basic metal salt,
 solubilised … water-rich film of an alkylpolyethylene oxide (PEO) based nonionic surfactant
 foam.11 The … The open-cell nature of the MMSF was demonstrated by the absorption of a brightly …",Morphosynthesis of macrocellular mesoporous silicate foams
-473,"LS Xie, MH Chen, GQ Tong, L Ga",8 R,2003,No,Materials For Mechanical …,"LS Xie, MH Chen, GQ Tong, L Gao - Materials For Mechanical …, 2003 - en.cnki.com.c","… and Astronautics,Beijing 100083,China);Numerical modeling of high strain compression of
-anisotropic elastic open-cell foams[J];Journal of … and Astronautics,Beijing 100191,China);Numerical
-simulation on compressive yielding behavior of closed-cell metal foam with low density …",Anisotropic elastic properties of foam metal with open cells
 474,"D Ruan, G Lu, LS Ong, B Wan",59,2007,No,Composites Science and Technology,"D Ruan, G Lu, LS Ong, B Wang - Composites Science and Technology, 2007 - Elsevier","… Deshpande and Fleck [4] have proposed a phenomenological yield surface for metal foams,
 which is a self-similar … foams: Alporas foams (closed-cell, with relative densities of 8.4% and 16%),
 Duocel foam (open-cell, with a relative density of 7%) and Alulight foams (closed-cell …",Triaxial compression of aluminium foams
@@ -1292,7 +1282,6 @@ narrow distribution of cell diameters, with over 80 pct of the total cell area c
 486,"M Odabaee, M De Paepe, P De Jaeger",17,2013,No,… Journal of Numerical …,"M Odabaee, M De Paepe, P De Jaeger… - … Journal of Numerical …, 2013 - emeraldinsight.com","… studies have been conducted to determine the transport properties of metal foams, see Straatman …
 Results showed that the area goodness factor of metal foam heat exchangers can be five …
 Open‐cell aluminium foam as a highly compact replacement for conventional louver finds …",Particle deposition effects on heat transfer from a metal foam-wrapped tube bundle
-487,"H Hu, Z Lai, G Ding, D Zhuang, X Wen",7 R,2017,[PDF] researchgate.net,International Journal of …,"H Hu, Z Lai, G Ding, D Zhuang, X Weng - International Journal of …, 2017 - Elsevier","For optimizing the metal foam heat exchangers used in dehumidification apparatus, the influence of surface wettability on drainage characteristics should be explicit. In the present study, the water drainage characteristics of metal foams with different wettabilities were",Experimental investigation on water drainage characteristics of open-cell metal foams with different wettabilities
 488,"K Yuge, H Muramatsu, Y Masuda, K Uekado",32,1994,No,US Patent …,"K Yuge, H Muramatsu, Y Masuda, K Uekado… - US Patent …, 1994 - Google Patent","… The cell opening agent used may be a known powdery divalent metal salt of a saturated carboxylic
 acid, preferably a fatty … evenly mixed together by use of, for example, a high pressure foaming
 machine, to readily provide an open cell rigid polyurethane foam whose cell …",Production and use of open cell rigid polyurethane foam
@@ -1314,7 +1303,6 @@ porous foams is also investigated by considering four different foam samples (na
 494,"L Mullen, RC Stamp, WK Brooks",245,2009,[PDF] researchgate.net,… Research Part B …,"L Mullen, RC Stamp, WK Brooks… - … Research Part B …, 2009 - Wiley Online Library","… that shows great promise.27 SLM is ordinarily used to produce solid metal components,28 … Open
 cellular foam structures produced by SLM can achieve controlled pore interconnectivity and
 porosities by … The objective of this article is to describe how a unit cell approach can be …","Selective Laser Melting: A regular unit cell approach for the manufacture of porous, titanium, bone in‐growth constructs, suitable for orthopedic applications"
-495,"X Yang, X Meng, Z Wang, L Jin, Q Zhang, Q Zhang",5 R,2017,[PDF] sciencedirect.com,Energy Procedia,"X Yang, X Meng, Z Wang, L Jin, Q Zhang, Q Zhang… - Energy Procedia, 2017 - Elsevier",This study presented a pore-scaled numerical simulation on the melting phase change heat transfer of a phase change material (PCM) impregnated in open-cell metal foam. Idealized tetrakaidecahedron was selected as the representing unit cell (UC) to mimic the real foam ,Direct numerical simulation on melting phase change behavior in open-cell metal foam
 496,"M Kolluri, M Mukherjee, F Garc",44,2008,[PDF] helmholtz-berlin.de,oreno,"M Kolluri, M Mukherjee, F Garcia-Moreno, J Banhart… - Acta materialia, 2008 - Elsevier","… 7] used 4% for open cell foams with a … etc., in turn impart a large variability to the quasi-static
 mechanical properties of the metal foams [27 … Turning attention to the macroscale strain
 accumulation mechanisms, namely the progressive cell band collapse mechanism, observation …",Fatigue of a laterally constrained closed cell aluminum foam
@@ -1357,9 +1345,6 @@ conductivity of foams is several times smaller than the conductivity of metal fr
 509,"S Mancin, C Zilio, A Diani, L Rossett",105,2012,No,Experimental thermal and fluid …,"S Mancin, C Zilio, A Diani, L Rossetto - Experimental thermal and fluid …, 2012 - Elsevier","… analyzed the mass transfer and pressure drop properties of alumina open-cell foams with pore …
 Carbon and metal foams have been largely investigated due to their interesting capabilities …
 Gallego and Klett [6] performed several comparisons between carbon foam and aluminum …",Experimental air heat transfer and pressure drop through copper foams
-510,"K Lee, JJ Lewandowsk",9 R,2005,No,Materials science and technology,"K Lee, JJ Lewandowski - Materials science and technology, 2005 - Taylor & Franci","… In contrast, little research has been conducted on the tensile properties of open cell metal foams.
-This investigation examines the effects of changes in foam density, cell size, grain size and strut
-size on the ultimate tensile strength (UTS) of electrodeposited nickel foams …",Effects of microstructural characteristics on mechanical properties of open-cell nickel foams
 511,"A Baroutaji, JG Carton, J Stokes, AG Olab",13,2017,[PDF] openrepository.com,international journal of …,"A Baroutaji, JG Carton, J Stokes, AG Olabi - international journal of …, 2017 - Elsevier","… The use of metal foam eliminated the need for some supplementary components such as current
 collectors which are used with the conventional flow plate … Fuel cell component, Material,
 Properties … Flow plate/Current collector, Nickel open cellular foam, • 24 Pores/cm. • …",Application of Open Pore Cellular Foam for air breathing PEM fuel cell
@@ -1435,7 +1420,6 @@ own some other advantages, such as light weight, high thermal conductivity, fair
 535,"K Kitazono, R Suzuki, Y Inu",19,2009,No,journal of materials processing technology,"K Kitazono, R Suzuki, Y Inui - journal of materials processing technology, 2009 - Elsevier","… According to this equation, the strength of metal foams increases with increasing L/d. An … These
 results indicate that the polyester resin at the open surface pores suppressed the … The cell
 morphology of alloyed aluminum foams is inhomogeneous compared to normal aluminum …",Novel strengthening method of closed-cell aluminum foams through surface treatment by resin
-536,"N Dukhan, PD Quinones, C Briano",5 R,2004,No,ICHMT DIGITAL …,"N Dukhan, PD Quinones, C Briano… - ICHMT DIGITAL …, 2004 - dl.begellhouse.com",A one-dimensional heat transfer model for open-cell metal foam is presented. The model combines the conduction in the solid ligaments of the foam and the convection in the flowing air in the pores of the foam. The approach avoids modeling the complex flow and heat,One-dimensional model for the combined heat transfer in open-cell metal foam
 537,"MA Navacerrada, P Fernández, C Díaz, A Pedrer",30,2013,[PDF] upm.es,Applied Acoustics,"MA Navacerrada, P Fernández, C Díaz, A Pedrero - Applied Acoustics, 2013 - Elsevier","… open cells are connected to each other in space. The majority of metallic foams on the market
 are closed-cell aluminium foams manufactured by various different processes. In some methods
 the liquid metal can be foamed directly by injecting a gas; in other techniques the foam …",Thermal and acoustic properties of aluminium foams manufactured by the infiltration process
@@ -1499,6 +1483,9 @@ Aluminum by … 3, Dou Zuoyong,Jiang Longtao,Wu Gaohui (Center for Metal Matrix
 557,"E Linul, N Movahedi, L Marsavin",24,2018,No,Journal of Alloys and Compounds,"E Linul, N Movahedi, L Marsavina - Journal of Alloys and Compounds, 2018 - Elsevier","… Author links open overlay panelEmanoilLinul a NimaMovahedi b LiviuMarsavina a. Show more …
 In this research, the closed cell aluminum-alloy foam prepared via casting route was
 experimentally … molten aluminum and mixed for 10 min at 500 rpm to make viscose molten metal …",The temperature and anisotropy effect on compressive behavior of cylindrical closed-cell aluminum-alloy foams
+558,"IO Salyer, N Wynne, MA Swan",47,2004,No,US Patent 6,"IO Salyer, N Wynne, MA Swank - US Patent 6,765,031, 2004 - Google Patent","… is loaded with PCM by enclosing the open cell foam in a metal mold on … The micropore cell foam
+composite is sealed and the enclosed foam composite may be evacuated as … Yet another method
+for imbibing micropore open cell foams is particularly useful in imbibing open cell …",Micropore open cell foam composite and method for manufacturing same
 559,"VC Srivastava, KL Saho",46,2007,[PDF] researchgate.net,Materials Scien,"VC Srivastava, KL Sahoo - Materials Science-Poland, 2007 - researchgate.net","… Open structures are obtained by just sintering the hollow spheres, whereas closed cell
 structures can be generated by filling the interstices between the spheres with a metal powder
 followed by sintering. This kind of foam is known as syntactic foam …","[PDF][PDF] Processing, stabilization and applications of metallic foams. Art of science"
@@ -1517,9 +1504,6 @@ of the AFPC had both polypropylene and aluminum foam occupying the same volume 
 564,"TJ Lu, M Kepets, AP Dowlin",15,2008,[PDF] scichina.com,Science in China Series E: Technological …,"TJ Lu, M Kepets, AP Dowling - Science in China Series E: Technological …, 2008 - Springer","… The primary goal of this research has been to characterize the low Reynolds number fluidic prop-
 erties of a sintered open-cell metal foam. The static flow resistance of sintered FeCrAlY foams
 was modelled based on the flow past isolated inclined cylinders and spheres at …",Acoustic properties of sintered FeCrAlY foams with open cells (I): Static flow resistance
-565,"S Benke, D Weicher",9 R,2003,No,Key Engineering Materials,"S Benke, D Weichert - Key Engineering Materials, 2003 - Trans Tech Publ","… 5 Conclusions A model for the microstructure of an open-cell low-density metal foam
-has been presented to describe the behaviour of metal foams based on a geometrical
-description of the foam and the behaviour of the solid material …",Meso-mechanical modeling of damage in metal foams
 566,"S Angel, W Bleck, PF Scholz",28,2004,No,steel research …,"S Angel, W Bleck, PF Scholz… - steel research …, 2004 - Wiley Online Library","… 2]. This paper presents a powder metallurgy method to produce an open-cell metallic foam by …
 The influence of density and cell structure is compared in static compression tests … The metal-
 acid reaction according to equation (1) generates gaseous hydrogen, which causes the …",Influence of Powder Morphology and Chemical Composition on Metallic Foams produced by SlipReactionFoamSintering (SRFS)‐Process
@@ -1550,6 +1534,9 @@ on its final mechanical properties such as yield strength and elastic modulus [3
 575,RML Tin,32,1988,No,US Patent 4,"RML Ting - US Patent 4,743,485, 1988 - Google Patent","… 3. A gas venting channel as recited in claim 1 wherein said gas venting channel is formed by
 bonding a string of open cell urethane foam rods onto said inner surface of said exterior metal
 skin before foaming, said foam rod having sufficient size to prevent total absorption of …",Vented composite foam panel
+576,"DP Haack, CL Lin, M Specker",31,2004,No,US Patent 6,"DP Haack, CL Lin, M Speckert - US Patent 6,706,239, 2004 - Google Patent","… but are not limited to, foams comprising polyurethane, polyester, polyether, cellulose and any
+other reticulated (open-cell) organic foam … in the context of the present invention, refers to any
+method of applying a powdered metal composition to a polymeric foam or incorporating …",Method of co-forming metal foam articles and the articles formed by the method thereof
 577,"A Kumar, RG Redd",142,2003,[PDF] academia.edu,Journal of power sources,"A Kumar, RG Reddy - Journal of power sources, 2003 - Elsevier","… The use of foam materials with an open-porous structure in this regard seems promising … of a
 three-dimensional steady-state numerical mass-transfer model for PEMFC with metal foam in
 the … mass-transfer unified model for PEMFC was developed to predict the cell performance …",Modeling of polymer electrolyte membrane fuel cell with metal foam in the flow-field of the bipolar/end plates
@@ -1562,21 +1549,12 @@ processing of open‐cell nanoporous foams (porosity ≥60%) has been a rapidly�
 580,"PJ Tan, SR Reid, JJ Harrigan, Z Zou, S L",270,2005,No,… of the Mechanics and Physics of …,"PJ Tan, SR Reid, JJ Harrigan, Z Zou, S Li - … of the Mechanics and Physics of …, 2005 - Elsevier","… Open or closed cells, Closed … The direct-impact technique is advocated for metal foam testing
 because, unlike a SHPB test, no assumptions regarding the deformation … 5 shows typical
 quasi-static stress–strain curves for small cell specimens (at 16% relative density) with (uniaxial …",Dynamic compressive strength properties of aluminium foams. Part I—experimental data and observations
-581,"CL Li, W Hui, XY Zhou, LI Jie, HZ Li",8 R,2010,No,Transactions of Nonferrous Metals …,"CL Li, W Hui, XY Zhou, LI Jie, HZ Liu - Transactions of Nonferrous Metals …, 2010 - Elsevier","… structural material and the functional material[3−5]. Therefore, the porous foam metal has obtained …
-and excellent anti-corrosive quality, porous metallic materials with 3-D open-cell network structure …
-Recently, ZHOU et al[9] focused on researching the stainless steel foams with 3 …",Debinding of stainless steel foam precursor with 3-D open-cell network structure
 582,"ES Park, SD Post",25,1991,No,US Patent 5,"ES Park, SD Poste - US Patent 5,061,660, 1991 - Google Patent","… Abstract. Ceramic foams in which the open cells are connected by a three-dimensional,
 substantially continuous ceramic matrix formed of interconnected hollow ligaments, are
 made from an open-cell, reticulated precursor metal, ie, a metal foam …",Ceramic foams
 583,"KR Vaidyanathan, JL Lombardi, J Walish",48,2003,No,US Patent …,"KR Vaidyanathan, JL Lombardi, J Walish… - US Patent …, 2003 - Google Patent","… In this method, a foaming agent is added to a metal powder that is then mixed … Furthermore, the
 GASAR process allows the use of only one pore or cell orientation in a … with oriented porosity,
 none of those processes are capable of creating a combination of open and closed cell …",Method for preparation of metallic foam products and products made
-584,"Y Tu, G Wan",9 R,2010,No,Journal of Materials in Civil Engineering,"Y Tu, G Wang - Journal of Materials in Civil Engineering, 2010 - ascelibrary.org","… The length of all specimens is 480 mm. The size of all metal foams' cross section is 2828
-mm. Three types of metal foams are tested. They are open cell pure aluminum foam, close
-cell pure aluminum foam and close cell aluminum alloy foam …",Damping parameter identification and study of metal foam filled steel tube
-585,"N Dukhan, A Alvare",8 R,2004,No,ASME 2004 …,"N Dukhan, A Alvarez - ASME 2004 …, 2004 - … .asmedigitalcollection.asme.org","… exchangers for airborne equipment and compact heat sinks for power electronics [1]. The open
-porosity, low relative density and high thermal conductivity of the cell edges, the … the ability to mix
-the cooling fluid by promoting eddies [4], all make metal foam heat exchangers …",Pressure drop measurements for air flow through open-cell aluminum foam
 586,"A Oriňák, R Oriňáková, ZO Králová",24,2014,[PDF] researchgate.net,Journal of Porous …,"A Oriňák, R Oriňáková, ZO Králová… - Journal of Porous …, 2014 - Springer","… foam template was transferred to the metal foam by replication method based on powder sintering
 method. Figure 1 shows the resulted high porosity metal foams with cell size between ppi
 35–50 and a density of about 24 kg/m 3 . The sintered open cell foams closely resemble …",Sintered metallic foams for biodegradable bone replacement materials
@@ -1592,7 +1570,6 @@ out looking at the deformation behaviour and fracture of open‐cell nickel foam
 590,"T Fiedler, IV Belova, GE Murc",20,2012,No,International journal of heat and mass …,"T Fiedler, IV Belova, GE Murch - International journal of heat and mass …, 2012 - Elsevier","… by Wang and Pan who used Lattice Boltzmann analysis to predict the conductivity of open-cell
 porous foams [8 … models and the three different categories of cellular metals: thick-walled,
 thin-walled and open-celled structures … M-Pore® cellular metal falls into the latter category …",Critical analysis of the experimental determination of the thermal resistance of metal foams
-591,"T Dixit, I Ghos",6 R,2016,No,Applied Thermal Engineering,"T Dixit, I Ghosh - Applied Thermal Engineering, 2016 - Elsevier",Radiation heat transfer in high porosity open-cell metal foams subjected to cryogenic temperatures has been studied. This study helps designing metal-foam-based devices exposed to radiation of deep space at extremely low temperature. Aluminium and copper,Radiation heat transfer in high porosity open-cell metal foams for cryogenic applications
 592,"K Mohan, TH Yip, I Sridhar, HP Seo",37,2007,No,Journal of materials science,"K Mohan, TH Yip, I Sridhar, HP Seow - Journal of materials science, 2007 - Springer","… densities using various manufacturing techniques [1]. Depending on the process technique
 employed, either open cell structure or closed cell structure can … Most of the previous studies on
 sandwich structures comprising metal foam cores by various researchers focused on …",Effect of face sheet material on the indentation response of metallic foams
@@ -1620,13 +1597,7 @@ high impact loading were … [10] found that bi-layered bumpers made with open 
 600,"R Prieto, E Louis, JM Molin",20,2012,No,Carbon,"R Prieto, E Louis, JM Molina - Carbon, 2012 - Elsevier","… since the foams of this work were intentionally fabricated with an average open cell diameter
 comparable to … In fact, these foams get complete metal saturated at a nominal pressure as low
 as … foams, while huge pressures of more than 2 MPa are required for the commercial foam …",Fabrication of mesophase pitch-derived open-pore carbon foams by replication processing
-601,"L Zixing, H Jixiang, C Xi",8 R,2009,No,Acta Aeronautica Et Astronautica Sinica,"L Zixing, H Jixiang, C Xin - Acta Aeronautica Et Astronautica Sinica, 2009 - en.cnki.com.c","… and Astronautics,Beijing 100083,China);Numerical modeling of high strain compression of
-anisotropic elastic open-cell foams[J];Journal of … and Astronautics,Beijing 100191,China);Numerical
-simulation on compressive yielding behavior of closed-cell metal foam with low density …",Elastic Properties of Anisotropic Kelvin Model for Open-cell Foams [J]
 602,"AG Straatman, NC Gallego",38,2007,No,Journal of …,"AG Straatman, NC Gallego… - Journal of …, 2007 - … .asmedigitalcollection.asme.org",2,Characterization of porous carbon foam as a material for compact recuperators
-603,"D Gao, G Yang, Z Zhu, J Zhang, Z Yang",9 R,2012,[PDF] researchgate.net,Journal of Materials …,"D Gao, G Yang, Z Zhu, J Zhang, Z Yang… - Journal of Materials …, 2012 - pubs.rsc.org","… employed here for preparing open-cell Ni foams can be easily expanded to Ni-based or other
-metal foams and geometric shapes. When changing the Ni(NO 3 ) 2 ·6H 2 O to Ni(NO 3 ) 2 ·6H
-2 O and Co(NO 3 ) 2 ·6H 2 O, the products of NiCo alloys also have foam shapes, the …",One-step synthesis of open-cell Ni foams by annealing the Ni 2+-based precursor in air
 604,"A Kim, K Tunvir, GD Jeong",21,2006,No,Modelling and Simulation …,"A Kim, K Tunvir, GD Jeong… - Modelling and Simulation …, 2006 - iopscience.iop.org","… 7] investigated the changes in the plateau stress and energy absorption of metal foam during
 compression … Recently, real 3D structures of the open cell and closed cell foams using CT
 (computer … big cells, indicating that more material has flown into the small cell surrounded by …",A multi-cell FE-model for compressive behaviour analysis of heterogeneous Al-alloy foam
@@ -1663,9 +1634,6 @@ the heat transfer behavior of a phase change material in an open-cell micro-foam
 615,"PS Liu, HB Qing, HL Ho",28,2015,No,Materials & Design,"PS Liu, HB Qing, HL Hou - Materials & Design, 2015 - Elsevier","… As compared with this open-cell reticulated structure, cellular titanium foams have been quite
 rarely … Besides, metal foams have been developing for lower bulk density and higher porosity
 on the basis … With nickel as the main alloy element, the titanium foam could be prepared by …",Primary investigation on sound absorption performance of highly porous titanium foams
-616,R Jamshi,9 R,1980,[PDF] academia.edu,lashti,"R Jamshidi-Alashti, M Kaskani, B Niroumand - Materials & Design (1980 …, 2014 - Elsevier","… Foaming procedure … to 700 °C and added to a given amount of molten A356 aluminum alloy in
-the preheated foam making chamber … 1. Semisolid melt squeezing process for manufacturing
-open-cell metal foams: (a) addition of preheated salt particles and (b) pressurizing the …",Semisolid melt squeezing procedure for production of open-cell Al–Si foams
 617,"MA Islam, MA Kader, PJ Hazell, AD Brown",17,2016,No,Materials Science and …,"MA Islam, MA Kader, PJ Hazell, AD Brown… - Materials Science and …, 2016 - Elsevier","… strength properties of closed-cell metallic foams are currently unavailable in the open literature …
 In short, the particles agglomeration on the cell wall of the foam can be random … Closed cell metal
 foams without particles are not possible since the stabilization of foaming is inherently …",Investigation of microstructural and mechanical properties of cell walls of closed-cell aluminium alloy foams
@@ -1687,7 +1655,6 @@ is transported, by conduction through the metal, across the foam away from a �
 623,"S Moghaddam, M Ohadi, J Q",24,2003,No,ASME 2003 …,"S Moghaddam, M Ohadi, J Qi - ASME 2003 …, 2003 - … .asmedigitalcollection.asme.org","… Figure 2 shows cell structure of a 30 ppi copper foam … The open structure of the cells allows the
 liquid to enter and the vapor to leave the structure … Metal foams in general have a very low specific
 weight and their mass producibility makes them highly appropriate for light weight …",Pool boiling of water and FC-72 on copper and graphite foams
-624,"S Wang, J Li, W Zhan",5 R,2008,No,Chemical Industry and Engineering …,"S Wang, J Li, W Zhang - Chemical Industry and Engineering …, 2008 - en.cnki.com.c","This paper introduces structure characteristics and mechanism of enhanced heat transfer by open cell metal foams, and reviews the research progress of open cell metal foams used in compact heat exchanger at home and aboard. The influence factors of performance are",Research progress of open cell metal foams used in compact heat exchanger
 625,"M Odabaee, S Mancin, K Hooma",47,2013,No,Experimental thermal and fluid science,"M Odabaee, S Mancin, K Hooman - Experimental thermal and fluid science, 2013 - Elsevier","… designed and manufactured at the University of Queensland, consists of an open air wind …
 replacements for water-cooled heat exchangers with application to PEM fuel cell systems … been
 conducted to examine the heat transfer enhancement from a metal foam plate sandwiched …",Metal foam heat exchangers for thermal management of fuel cell systems–An experimental study
@@ -1700,7 +1667,6 @@ with PCM … The re- sults indicate that the effects of foam porosity play impo
 628,"YB Tao, Y You, YL H",41,2016,No,Applied Thermal Engineering,"YB Tao, Y You, YL He - Applied Thermal Engineering, 2016 - Elsevier","… Gao et al. [25] proposed a thermal lattice Boltzmann model for simulating the melting
 with natural convection in open-cell metal foams … However, the existence of metal foams
 has dual effects on the performance of metal foam CPCM …",Lattice Boltzmann simulation on phase change heat transfer in metal foams/paraffin composite phase change material
-629,"S De Schampheleire, K De Kerpel, B Ameel",5 R,2016,[PDF] mdpi.com,Materials,"S De Schampheleire, K De Kerpel, B Ameel… - Materials, 2016 - mdpi.com","It is long known that for high-velocity fluid flow in porous media, the relation between the pressure drop and the superficial velocity is not linear. Indeed, the classical Darcy law for shear stress dominated flow needs to be extended with a quadratic term, resulting in the",A discussion on the interpretation of the darcy equation in case of open-cell metal foam based on numerical simulations
 630,"K Boomsma, D Poulikako",607,2001,[PDF] psu.edu,International Journal of Heat and Mass …,"K Boomsma, D Poulikakos - International Journal of Heat and Mass …, 2001 - Elsevier","… gravel layers, to foam insulation, and recently, to the novel application of open celled metal …
 structure [2] to the markedly more complex three-dimensional structure, which real metal foams
 possess … 1a). This complete cell which consists of six squares and eight hexagons was first …",On the effective thermal conductivity of a three-dimensionally structured fluid-saturated metal foam
@@ -1710,6 +1676,9 @@ filtering molten metal having an open cell structure characterized by a pluralit
 632,"LP Lefebvre, J Banhart, D Dunan",19,2007,[PDF] helmholtz-berlin.de,… metals and metallic foams,"LP Lefebvre, J Banhart, D Dunand - … metals and metallic foams, 2007 - helmholtz-berlin.de","… RF Singer Laser Induced Foaming of Pure Titanium with Biocompatible Foaming Agents … and
 DJ Morrison Inhomogeneous Deformation and Fracture of Aluminum Foam under Uniaxial … M.
 Mabuchi and H. Watanabe Multi-scale Modelling of Fracture in Open-cell Metal Foams …",[PDF][PDF] Porous metals and metallic foams
+633,"DW Gibbons, MF Cahil",40,2002,No,US Patent 6,"DW Gibbons, MF Cahill - US Patent 6,383,687, 2002 - Google Patent","… B29C44/00—Shaping by internal pressure generated in the material, eg swelling or foaming ;
+Producing porous or cellular … A continuous production process for preparing a preferred metal
+foam support member in sheet form using an open-cell foam plastic sheet as a …",Production of a porous foam product for battery electrodes
 634,"N Dukhan, S Bodk",18,2010,No,2010 12th IEEE intersociety conference …,"N Dukhan, S Bodke - 2010 12th IEEE intersociety conference …, 2010 - ieeexplore.ieee.org","… Aluminum foams applications range from heat exchange, energy absorption, flow diffusion and
 lightweight … these issues by combing a PCM (Paraffin wax) with open-cell aluminum foam … Dukhan,
 “Correlations for the Pressure Drop for Flow through Metal Foam,” Experiments in …",An improved PCM heat storage technology utilizing metal foam
@@ -1755,19 +1724,18 @@ propagation behaviour and deformation mechanics of closed-cell foams under dynam
 648,"TF Fay III, R La Ferla, AJ Sherman",89,2000,No,US Patent …,"TF Fay III, R La Ferla, AJ Sherman… - US Patent …, 2000 - Google Patent","… A catalyst support consisting of an open-cell reticulated, non-oxide foam fabricated by means
 of chemical … The foam support also acts as a bulk acoustic absorber for providing noise reduction.
 A platinum group metal catalyst applied as a thin film which coats the ligament surfaces …",Foam catalyst support for exhaust purification
-649,"C Betts, D Balint, J Lee, J Lin",5 R,2014,No,The Journal of Strain …,"C Betts, D Balint, J Lee, J Lin… - The Journal of Strain …, 2014 - journals.sagepub.com",Microtensile testing was used to determine the mechanical properties of individual aluminium alloy foam struts. Finite element modelling of as-tested struts was carried out using X-ray microtomography scans of the undeformed struts to define the geometry. Strut,In situ microtensile testing and X-ray microtomography-based finite element modelling of open-cell metal foam struts and sandwich panels
 650,"T Shimizu, K Matsuzaki, H Nagai, N Kanetak",13,2012,No,Materials Science and …,"T Shimizu, K Matsuzaki, H Nagai, N Kanetake - Materials Science and …, 2012 - Elsevier","… The PF3F and PF20F SST foams fabricated here using the SWS process have closed cell type
 structure at high density, but have open cell type structure at low density … In a metal foam, λ s
 depends almost entirely on thermal conductivity by the cell structure …",Production of high porosity metal foams using EPS beads as space holders
 651,"F Zhu, C Zhang, X Gon",20,2016,No,Applied Thermal Engineering,"F Zhu, C Zhang, X Gong - Applied Thermal Engineering, 2016 - Elsevier","… Author links open overlay panelFengZhuChuanZhangXiaoluGong. Show more … cell pore average
 diameter, m. E … such as adding metal fins [6], dispersing the particles with high conductivity in PCM
 [7], changing the shape of container [8] and using the metal foam as skeleton [9] …",Numerical analysis and comparison of the thermal performance enhancement methods for metal foam/phase change material composite
-652,"F Diologent, Y Conde, R Goodall",8 R,2009,No,Philosophical …,"F Diologent, Y Conde, R Goodall… - Philosophical …, 2009 - Taylor & Franci","… of highly porous Al–Ni should both provide a good test of theory, since the base metal making
-the foam is expected to creep at the same rate as in bulk form, and a good test of the limits of
-what can be achieved in terms of creep resistance in open-cell aluminium-based foams …","Microstructure, strength and creep of aluminium-nickel open cell foam"
 653,"G Pia, F Delog",19,2013,No,Scripta Materialia,"G Pia, F Delogu - Scripta Materialia, 2013 - Elsevier","… mostly relied upon the model proposed by Gibson and Ashby to account for the mechanical
 response of open-cell macroporous foams [18], [19] … The same simplified structural unit proposed
 by Liu and Antoniou is used to describe the NP metal foam structure [14] …",On the elastic deformation behavior of nanoporous metal foams
+654,"KL Thunhorst, DA Hangg",48,2002,No,US Patent 6,"KL Thunhorst, DA Hanggi - US Patent 6,462,100, 2002 - Google Patent","… the open cell foams of the present invention may be joined by open “windows” or holes connecting
+adjacent cells. All of the foams of the present invention contain functionalized metal oxide
+nanoparticles. Another aspect of the invention is a cross-linked foam comprising residue …",Foams containing functionalized metal oxide nanoparticles and methods of making same
 655,"Q Ji, LH Le, LJ Filipow, SA Jackso",22,1998,No,Ultrasonics,"Q Ji, LH Le, LJ Filipow, SA Jackson - Ultrasonics, 1998 - Elsevier","… and low densities. The samples were provided by the ERG company (USA) in 2 x 2 x 1 in
 (5 x 5 x 2.5 cm) blocks. The aluminum foam has an open cell structure … The solid matrix is 6010
 aluminum alloy which is a homogenous, isotropic and elastic metal …",Ultrasonic wave propagation in water-saturated aluminum foams
@@ -1780,7 +1748,9 @@ or tack welding of machinable metal in bulk amorphous alloy part and post machin
 658,"C Tekog, LJ Gibson, T Pardoen, PR Onc",129,2011,[PDF] uclouvain.be,Progress in Materials Science,"C Tekog, LJ Gibson, T Pardoen, PR Onck - Progress in Materials Science, 2011 - Elsevier","… 3.1. Uniaxial compression. A large experimental literature is available on uniaxial compression
 of metal foams, while only few studies focus on the effect of the sample size under compression;
 Fig … In Andrews et al. [11], open-cell aluminum foam (Duocel) cylinders with …",Size effects in foams: Experiments and modeling
-659,"TP De Carvalho, HP Morvan",6 R,2015,No,ASME Turbo …,"TP De Carvalho, HP Morvan… - ASME Turbo …, 2015 - … .asmedigitalcollection.asme.org","abstract Oil-air separation is a key function in aero engines with closed-loop oil systems. Typically, aero engine air/oil separators employ the use of a porous medium such as open cell metal foams, as a secondary separation mechanism. Assessing its impact on overall",Experimental and tomography-based cfd investigations of the flow in open cell metal foams with application to aero engine separators
+660,"MF Cahill, GS Sha",20,2001,No,US Patent 6,"MF Cahill, GS Shaw - US Patent 6,238,819, 2001 - Google Patent","… foams which are made conductive by coating with a latex graphite are commercially available
+and are marketed by Foamex International, Inc. A continuous production process for preparing
+a preferred metal foam support member in sheet form using an open-cell foam …","Metal foam support, electrode and method of making same"
 661,"A Inayat, H Freund, A Schwab, T Zeiser",24,2011,No,Advanced …,"A Inayat, H Freund, A Schwab, T Zeiser… - Advanced …, 2011 - Wiley Online Library","… Jodłowski, Joanna Łojewska, Jolanta Kowalska and Andrzej Kołodziej, In Search of Governing
 Gas Flow Mechanism through Metal Solid Foams … Woei-Chong Tan and Kok-Keong Chong,
 Simplification of heat transfer modelling for 3-D open cell copper foam by using …",Predicting the specific surface area and pressure drop of reticulated ceramic foams used as catalyst support
@@ -1860,9 +1830,6 @@ counter-electrode … gained here may also apply to other types of metallic-foa
 687,PS Li,16,2010,No,Materials Science and Engineering: A,"PS Liu - Materials Science and Engineering: A, 2010 - Elsevier","… of aluminum-foamed material [15] and the bending properties of porous tantalum foam [16], [17 …
 Porous metal foams with isotropic three-dimensional uniform reticulated structure are composed
 of well … 1. Simplified structural unit of octahedron for isotropic open-cell metal foams …","Mechanical relations for porous metal foams under several typical loads of shearing, torsion and bending"
-688,"A August, J Ettrich, M Rölle, S Schmid",9 R,2015,No,International Journal of …,"A August, J Ettrich, M Rölle, S Schmid… - International Journal of …, 2015 - Elsevier","… 1. Introduction. Open cell metal foams (see Fig. 1) are materials with exceptional properties …
-Download full-size image. Fig. 1. Open-cell metal foam: (a) foam sample, (b) details of
-cell structure and topology, (c) details of ligament cross-section …",Prediction of heat conduction in open-cell foams via the diffuse interface representation of the phase-field method
 689,"AJ Svagan, MASA Samir, LA Berglun",261,2008,[HTML] diva-portal.org,Advanced Materials,"AJ Svagan, MASA Samir, LA Berglund - Advanced Materials, 2008 - Wiley Online Library","… The larger proportion of open cells, see Table 1, contributes to the lower than expected modulus …
 The samples were fixed on a metal stub using carbon tape and coated with gold using … software
 ImageJ (by NIH, Bethesda, Maryland, USA.) was used to measure the cell area, the …",Biomimetic foams of high mechanical performance based on nanostructured cell walls reinforced by native cellulose nanofibrils
@@ -1884,9 +1851,6 @@ metallic particles are suspended in slurry and coated over a polymeric foam subs
 695,"L Marsavina, J Kováčik, E Linu",27,2016,[PDF] academia.edu,Theoretical and Applied Fracture …,"L Marsavina, J Kováčik, E Linul - Theoretical and Applied Fracture …, 2016 - Elsevier","… inserts, electrical screening, heat exchangers and filters [1], [2]. The capacity of metal foams to
 undergo … their relative density; but they are influenced also by its cell topology (open/closed cell …
 It was observed that crack growth occurs along cell wall faces in a similar mechanism to …",Experimental validation of micromechanical models for brittle aluminium alloy foam
-696,"HR Salimijazi, L Pershin, TW Coyle",6 R,2008,No,… Spray Conference & …,"HR Salimijazi, L Pershin, TW Coyle… - … Spray Conference & …, 2008 - osti.gov","… In this study alloy 625 skins were deposited on each side of a sheet of metal foam by
-APS and HVOF to form a sandwich structure. Two densities of open cell foams, 20 and
-10 pores per linear inch (ppi), were used in this study as the core …",Metal foam sandwich structure as a high temperature heat exchanger
 697,"H Bafti, A Habibolahzade",80,2010,No,Materials & Design,"H Bafti, A Habibolahzadeh - Materials & Design, 2010 - Elsevier","… Zhao and Sun [9] have developed a technique for manufacturing low-cost open-celled aluminum
 foams via P … they should be kept as low as possible if a high strength porous metal is desired … 9.
 SEM microstructure of cell wall in aluminum foams after (a) solid-state, and (b) liquid …",Production of aluminum foam by spherical carbamide space holder technique-processing parameters
@@ -1914,6 +1878,9 @@ Closed-cell metallic foams are one of the candidate lightweight materials to be 
 705,"AG Mamalis, DE Manolakos, MB Ioannidis",47,2009,No,Composite …,"AG Mamalis, DE Manolakos, MB Ioannidis… - Composite …, 2009 - Elsevier","… progressive folding and hinging similar to the crushing behaviour of thin-walled metal and plastic
 tubes, showing a medium energy absorbing capacity (Mode 3). 2.2.2. Foams … The enclaved air
 finds its way out of the foam in the case of open-cell foams (like the Alporas one …",On the crashworthiness of composite rectangular thin-walled tubes internally reinforced with aluminium or polymeric foams: Experimental and numerical simulation
+706,"BE Williams, J Brockmeyer, RH Tuffia",18,2005,No,US Patent 6,"BE Williams, J Brockmeyer, RH Tuffias - US Patent 6,929,866, 2005 - Google Patent","… Often the metal itself can not be foamed … Such built up foams are considered to be foam substrates
+for the purposes of this disclosure and the claims appended … Reticulated, that is, open-cell rigid
+foam substrates are preferred where it is desired to pass a fluid through the substrate …",Composite foam structures
 707,"N Movahedi, E Linul, L Marsavin",17,2018,No,Journal of Materials Engineering and …,"N Movahedi, E Linul, L Marsavina - Journal of Materials Engineering and …, 2018 - Springer","… 2. E. Linul, L. Marsavina, and J. Kováčik, Collapse Mechanisms of Metal Foam Matrix Composites …
 Yue, H. Fukazawa, and K. Kitazono, Strain Rate Sensitivity Of Open-Cell Titanium Foam … A. Kidane,
 Design Optimization of Continuously and Discretely Graded Foam Materials for …",The temperature effect on the compressive behavior of closed-cell aluminum-alloy foams
@@ -1923,12 +1890,12 @@ or modulus is associated with an undesired penalty in the foam density [9], [10]
 709,JW Brockmeye,38,1982,No,US Patent 4,"JW Brockmeyer - US Patent 4,343,704, 1982 - Google Patent","… What is claimed is: 1. A ceramic foam filter for use in filtering molten metal having an open cell
 structure characterized by a plurality of interconnected voids surrounded by a web of ceramic,
 said foam consisting essentially of the following composition: 55 to 70% Al 2 O 3 , 2 to 10 …",Ceramic foam filter
-710,"B Kang, K Kim, B Lee, J No",9 R,2008,No,Journal of Materials Science and …,"B Kang, K Kim, B Lee, J Noh - Journal of Materials Science and …, 2008 - cnki.com.c","… line.Sound silencing effect of open-celled aluminum foam showed that the noise level went down
-by introducing smaller cell size foam … to a range of large一seale integration，miniatur-
-ization，and light weight.PreParation of high Poros- it扒oPen eell metal foams has been a …",Heat transfer and acoustic properties of open cell aluminum foams
 711,"LEG Cambronero, I Canadas, D Martínez",22,2010,No,Solar Energy,"LEG Cambronero, I Canadas, D Martínez… - Solar Energy, 2010 - Elsevier","… Also AlSi12 melting is to use an open mould and a CCD camera on solar furnace (Cambronero
 et al., 2006) … Aluminium foams collapse (Duarte and Banhart, 2000) is caused by two mechanisms,
 drainage, or leakage of molten metal from the cell walls by gravity, and cell …",Foaming of aluminium–silicon alloy using concentrated solar energy
+712,"W Knott, B Niedermann, M Recksik, A Weie",15,2005,[PDF] googleapis.com,US Patent 6,"W Knott, B Niedermann, M Recksik, A Weier - US Patent 6,874,562, 2005 - Google Patent","… the mixture comprising the metal melt and the blowing agent before foaming said mixture … en),
+2001-06-07, 2002-06-05, Process for producing metal/metal foam composite components … 03,
+2014-01-09, Christopher D. Prest, Insert molding of bulk amorphous alloy into open cell foam …",Process for producing metal/metal foam composite components
 713,"CJ Tseng, BT Tsai, ZS Liu, TC Cheng",67,2012,[PDF] academia.edu,Energy Conversion and …,"CJ Tseng, BT Tsai, ZS Liu, TC Cheng… - Energy Conversion and …, 2012 - Elsevier","… Highlights. ► Metal foams are used to replace conventional flow channels as the flow distributor. ►
 Cell with metal foam out-performs the conventional cell with flow channel plate. ► Mass transport
 limitation phenomenon is not as obvious as in conventional unit cell …",A PEM fuel cell with metal foam as flow distributor
@@ -1950,7 +1917,6 @@ it can be seen the open-circuit voltage (OCV) of this new type of fuel cell is a
 719,"O Jiroušek, T Doktor, D Kytýř, P Zlámal",19,2013,[PDF] iop.org,Journal of …,"O Jiroušek, T Doktor, D Kytýř, P Zlámal… - Journal of …, 2013 - iopscience.iop.org","Page 1. Journal of Instrumentation OPEN ACCESS … Effects of cell size and cell wall thickness
 variations on the stiffness of closed-cell foams Youming Chen et al … X-ray and finite element
 analysis of deformation response of closed-cell metal foam subjected to …",X-ray and finite element analysis of deformation response of closed-cell metal foam subjected to compressive loading
-720,"PM Kamath, C Balaji",5 R,2013,[PDF] researchgate.net,Journal of …,"PM Kamath, C Balaji… - Journal of …, 2013 - … .asmedigitalcollection.asme.org","This paper presents a methodology for obtaining the convective heat transfer coefficient from the wall of a heated aluminium plate, placed in a vertical channel filled with open cell metal foams. For accomplishing this, a thermal resistance model from literature for metal foams is",A Simple Thermal Resistance Model for Open Cell Metal Foams
 721,"S Ryan, T Hedman, EL Christianse",32,2010,[PDF] nasa.gov,Acta astronautica,"S Ryan, T Hedman, EL Christiansen - Acta astronautica, 2010 - Elsevier","… hypervelocity. 2.2. Open-cell foams. Preliminary investigations of the hypervelocity
 impact performance of metal foam structures have demonstrated their potential,
 particularly in comparison with traditional structural panels. In …",Honeycomb vs. foam: Evaluating potential upgrades to ISS module shielding
@@ -2008,21 +1974,12 @@ surface of the pores inside the solid foam structures. To …",Direct numerical
 739,"Y Du, AB Li, XX Zhang, ZB Tan, RZ Su, F Pu, L Gen",19,2015,No,Materials Letters,"Y Du, AB Li, XX Zhang, ZB Tan, RZ Su, F Pu, L Geng - Materials Letters, 2015 - Elsevier","… capacity curves (a) and energy absorption efficiency curves (b) of the foam materials … [1] J.
 BanhartManufacture, characterization and application of cellular metals and metal foams. Prog
 Mater … WX ZhaoEffect of Y 2 O 3 on the mechanical properties of open cell aluminum foams …",Enhancement of the mechanical strength of aluminum foams by SiC nanoparticles
-740,R Jamshi,9 R,2013,No,lashti,"R Jamshidi-Alashti, MM Zahrani, B Niroumand - Materials & Design, 2013 - Elsevier","… Recently, a new technique for production of open-cell metal foams called “melt squeezing
-procedure” has been proposed by Jamshidi … the effect of processing parameters of this technique,
-such as compaction pressure and cell size, on the properties of final foam has not …",Use of artificial neural networks to predict the properties of replicated open-cell aluminum alloy foam via processing parameters of melt squeezing procedure
 741,"Z Zhang, J Ding, X Xia, X Sun, K Song, W Zhao",22,2015,No,Materials & Design,"Z Zhang, J Ding, X Xia, X Sun, K Song, W Zhao… - Materials & Design, 2015 - Elsevier","… Meanwhile, the cost of the products is high due to the high-cost of metal powders … Therefore, the
 present work mainly focuses on solving the agglomeration of MWCNTs and preparing
 closed-cell aluminum foam with MWCNTs by a modified melt foaming method …",Fabrication and characterization of closed-cell aluminum foams with different contents of multi-walled carbon nanotubes
-742,"XZ Yue, H Fukazawa, K Kitazon",7 R,2016,No,Materials Science and Engineering: A,"XZ Yue, H Fukazawa, K Kitazono - Materials Science and Engineering: A, 2016 - Elsevier","… Uniaxial compressive deformation of open-cell pure titanium foams with 60% porosity was
-evaluated under the conditions of … The stress-strain curves showed typical characteristics of metal
-foams. Strain rate sensitivity exponent of the titanium foam was low and close to that of …",Strain rate sensitivity of open-cell titanium foam at elevated temperature
 743,"ZG Fan, CQ Chen, TJ L",11,2012,No,Materials Science and Engineering: A,"ZG Fan, CQ Chen, TJ Lu - Materials Science and Engineering: A, 2012 - Elsevier","… temperatures above 0.3T m , the secondary creep rate of the constituent solid metal of the … results
 reveal that the secondary creep rate is sensitive to the foam relative density … Open-cell foams
 usually have a complex microstructure consisting of a network of non-uniform ligaments …",Multiaxial creep of low density open-cell foams
-744,"A Ohrndorf, U Krupp, HJ Chris",7 R,2006,No,Technology and health care,"A Ohrndorf, U Krupp, HJ Christ - Technology and health care, 2006 - content.iospress.com","… of foamable precursor and foamed aluminium material, in: Cellular Metals and Metal Foaming
-Technology, J … Ohrndorf, U. Krupp and H.-J. Christ, Fatigue damage mechanisms in open-cell
-metal foams, Proc … H. Sang and JD Embury, Structure and properties of Al-SiC foam, Mater …",Metallic open-cell foams–a promising approach to fabricating good medical implants
 745,"LE Murr, KN Amato, SJ Li, YX Tian, XY Cheng",173,2011,No,Journal of the …,"LE Murr, KN Amato, SJ Li, YX Tian, XY Cheng… - Journal of the …, 2011 - Elsevier","… Utilizing CT scans for standard aluminum stochastic open cellular foams, bitmap files representing …
 in linear dimension to create variations in cell sizes and cell ligament dimensions … dimension,
 which complied with the general requirements discussed for metal foams by Ashby et …",Microstructure and mechanical properties of open-cellular biomaterials prototypes for total knee replacement implants fabricated by electron beam melting
@@ -2036,6 +1993,9 @@ a measured value for R. The cell aspect ratio … 2 Micrographs of the open-cel
 749,"JF Rakow, AM Waa",64,2005,No,Mechanics of Materials,"JF Rakow, AM Waas - Mechanics of Materials, 2005 - Elsevier","… Metal foams are known to have regions of plastic deformation, even at very low levels of load,
 because of … to a few of the many investigations on the effects of cell-level imperfections on
 aluminum foam performance: Chen … (2000) for the uniaxial strength of open cell metallic foams …",Size effects and the shear response of aluminum foam
+750,"KLV Thunhorst, DA Hangg",47,2002,No,US Patent 6,"KLV Thunhorst, DA Hanggi - US Patent 6,353,037, 2002 - Google Patent","… the open cell foams of the present invention may be joined by open “windows” or holes connecting
+adjacent cells. All of the foams of the present invention contain functionalized metal oxide
+nanoparticles. Another aspect of the invention is a cross-linked foam comprising residue …",Foams containing functionalized metal oxide nanoparticles and methods of making same
 751,"ZG Xu, ZG Qu, CY Zhao, WQ Ta",41,2011,No,International Journal of Heat and Mass …,"ZG Xu, ZG Qu, CY Zhao, WQ Tao - International Journal of Heat and Mass …, 2011 - Elsevier","… The experimental data for pool boiling heat transfer in grooved open-cell metallic foams with
 surfactant … under a wide pore density range (20–130 PPI) is not available in open literature … 2. Metal
 foam sample: (a) photograph of copper foam with copper substrate and (b) sketch of V …",Pool boiling heat transfer on open-celled metallic foam sintered surface under saturation condition
@@ -2069,18 +2029,21 @@ anisotropy of the strut-junctures structure on the effective thermal conductivit
 761,"A Rabiei, B Neville, N Reese, L Vendr",14,2007,No,Materials science forum,"A Rabiei, B Neville, N Reese, L Vendra - Materials science forum, 2007 - Trans Tech Publ","… WO, Compression-compression fatigue of open cell aluminum foams: macro- /micro- mechanisms
 and the effects of heat treatment, Materials Science and Engineering A, 369, 23-35, 2004 [9] Rabiei,
 A. and O'Neill, AT, A study on processing of a composite metal foam via casting …",New composite metal foams under compressive cyclic loadings
+762,"CM Austin, RJ Gryll",25,2002,No,US Patent 6,"CM Austin, RJ Grylls - US Patent 6,428,280, 2002 - Google Patent","… includes a sacrificial ceramic, typically silicon dioxide, and a reactive metal, typically aluminum,
+which is reactive with the sacrificial ceramic to form an open-celled ceramic foam. The sacrificial
+ceramic and the reactive metal are reacted together to form ceramic cell walls of an …","Structure with ceramic foam thermal barrier coating, and its preparation"
 763,JM Ruffon,28,1992,No,US Patent 5,"JM Ruffoni - US Patent 5,151,222, 1992 - Google Patent","… What is claimed is: 1. A process for producing a foam material having electromagnetic … adding
 carbon and a metal selected from the group consisting of silver, copper and … resin composition,.
 spraying the resulting mixture onto a surface of an open cell reticulated polyurethane …",Foam absorber
 764,"ST Mayer, RW Pekala, JL Kaschmitte",64,1997,No,US Patent 5,"ST Mayer, RW Pekala, JL Kaschmitter - US Patent 5,626,977, 1997 - Google Patent","… Low density open cell organic foams, low density open cell carbon foams, and methods for
 preparing same … useful eg as electrode, catalyst support and adsorber, comprises large- and
 open porous support of … en) *, 2012-01-27, 2013-08-01, Ut-Battelle, Llc, Metal-Bonded Graphite …",Composite carbon foam electrode
+765,"OO Popoola, R Jahn, RC McCun",28,2002,No,US Patent 6,"OO Popoola, R Jahn, RC McCune - US Patent 6,464,933, 2002 - Google Patent","… en), 2013-05-31, 2014-12-04, Siemens Aktiengesellschaft, A method for producing a metal foam
+as well … Insert molding of bulk amorphous alloy into open cell foam … used in eg automobile or
+building industries, employs surface treatment, coating and profiling by thermal foaming …",Forming metal foam structures
 766,"A Celzard, G Tondi, D Lacroix, G Jeandel, B Monod",29,2012,No,Carbon,"A Celzard, G Tondi, D Lacroix, G Jeandel, B Monod… - Carbon, 2012 - Elsevier","… or gas purification, filters for molten metals and corrosive chemicals, template for metal and
 ceramic … glasslike carbon foams in which the pore topology was fully maintained: partially open,
 well-formed … modelled by a close-packing of hollow spheres, having a linear cell density, or …","Radiative properties of tannin-based, glasslike, carbon foams"
-767,"J Zhou, Z Gao, AM Cuitino",9 R,2005,No,Journal of …,"J Zhou, Z Gao, AM Cuitino… - Journal of …, 2005 - … .asmedigitalcollection.asme.org","… 191–227. 4 Banhart, John, 2001, ''Manufacture, Characterization and Application of Cel- lular
-Metals and Metal Foams,'' Prog … 10 Harte, AM., Fleck, NA, and Ashby, MF, 1999, ''Fatigue Failure
-of an Open Cell and a Closed Cell Aluminum Alloy Foam,'' Acta Mater., 47, pp …",Fatigue of As-fabricated open cell aluminum foams
 768,"E Afshari, M Zia",21,2016,No,ad,"E Afshari, M Ziaei-Rad, Z Shariati - International Journal of Hydrogen …, 2016 - Elsevier","… Although this pattern can also be used for the air cooling fluid, but an open loop is … based on a
 CFD platform to predict the performance of a PEMFC with metal foam flow field … permeable porous
 fluid distributors with a conventional ribbed flow distributor in a fuel cell system and …",A study on using metal foam as coolant fluid distributor in the polymer electrolyte membrane fuel cell
@@ -2090,10 +2053,6 @@ flexible foam material is impregnated with the aqueous ceramic slurry so that th
 770,"JN Tourvieille, R Philippe, C De Bellefo",31,2015,No,Chemical Engineering Journal,"JN Tourvieille, R Philippe, C De Bellefon - Chemical Engineering Journal, 2015 - Elsevier","… are addressed for a square 2 mm width channel filled with metal foams as catalyst … Overall mass
 transfer coefficients are determined for various foam morphologies and flow conditions … Open
 cell foam. Milli-reactor. Gas–liquid–solid reaction. External mass transfer. Pressure drop …",Milli-channel with metal foams under an applied gas–liquid periodic flow: External mass transfer performance and pressure drop
-771,"PH Ho, E Scavetta, F Ospitali, D Tonelli, G Fornasari",6 R,2018,No,Applied Clay …,"PH Ho, E Scavetta, F Ospitali, D Tonelli, G Fornasari… - Applied Clay …, 2018 - Elsevier","Mg/Al hydrotalcite-like compounds were deposited on FeCrAlloy open-cell metal foams by the electro-base generation method in metal nitrate baths of different concentration (0.03, 0.06 and 0.10 M, Mg/Al= 3/1). The modifications of both electrochemical and chemical",Effect of metal nitrate concentration on the electrodeposition of hydrotalcite-like compounds on open-cell foams
-772,"NSK Ho, P Li, S Raghavan, T L",8 R,2017,[PDF] gla.ac.uk,Materials Science and Engineering: A,"NSK Ho, P Li, S Raghavan, T Li - Materials Science and Engineering: A, 2017 - Elsevier","… The foam is a bending-dominated cellular structure as β=1.4 and γ=1.6, both of which … The α values
-other than 2.0 have been found to best fit the results of several open-cell metal foams … average
-peak stress of Inconel foams is higher than that of the other open-cell nickel-based …",The effect of slurry composition on the microstructure and mechanical properties of open-cell Inconel foams manufactured by the slurry coating technique
 773,"JK Khabushan, SB Bonabi, FM Aghbagh",18,2014,No,Materials & Design,"JK Khabushan, SB Bonabi, FM Aghbagh… - Materials & Design, 2014 - Elsevier","… Author links open overlay panelJalalKahani Khabushan a SoheilaBazzaz Bonabi a Fatemeh …
 The research shows that the produced foam with an average cell size and proper … Many different
 methods are used to manufacture aluminum metal foam and aluminum alloy foams [11 …",A study of fabricating and compressive properties of cellular Al–Si (355.0) foam using TiH2
@@ -2121,16 +2080,9 @@ implant materials … 8. SEM micrograph of the cell edge surface of the titaniu
 781,"JW Brockmeyer, LS Aubrey, JE Dor",24,1990,No,US Patent 4,"JW Brockmeyer, LS Aubrey, JE Dore - US Patent 4,975,191, 1990 - Google Patent","… This is a particular advantage if metal is reclaimed from the spent filter by placing the … with the
 present invention, the ceramic foam filter is prepared from an open cell, preferably hydrophobic …
 a plurality of interconnected voids surrounded by a web of said flexible foam material …",Ceramic foam filter
-782,"Z Yuan, N Rayess, N Dukha",7 R,2014,[PDF] sciencedirect.com,Procedia Materials Science,"Z Yuan, N Rayess, N Dukhan - Procedia Materials Science, 2014 - Elsevier","… 1. Introduction Using metal foam as a preform and filling the pores with other material leads to
-a type of hybrid material known as an interpenetrating phase composite IPC (Clarke (1992)).
-One type of IPC is created by filling the pores of open- cell aluminum foams with polymers …",Modeling of the mechanical properties of a polymer-metal foam hybrid
-783,"S Asavavisithchai, E Nisaratanapor",7 R,2010,[PDF] thaiscience.info,Chiang Mai Journal of …,"S Asavavisithchai, E Nisaratanaporn - Chiang Mai Journal of …, 2010 - thaiscience.info","… This type of measure- ment is commonly used for open-cell metal foams [5]. Foamed samples were
-half-sectioned in vertical direction using electro discharge machining (EDM). Foam structure was
-examined using JSM-5,800LV scanning electron microscope (SEM) …",[PDF][PDF] Fabrication of open-cell silver foams using disaccharide as space holders
 784,"V Kathare, FA Kulacki",13,2008,No,… with the Fluids …,"V Kathare, FA Kulacki… - … with the Fluids …, 2008 - … .asmedigitalcollection.asme.org","… ABSTRACT Experiments on natural convection in superposed metal foam and water layers are
 reported … a foam layer on the heated surface and a water-filled cavity with foam layers on … The
 present experiments use open cell copper foams with a nominal porosity of 92%, and the …",Buoyant convection in superposed metal foam and water layers
-785,JJ Boc,5 R,2011,[PDF] illinois.edu,201,JJ Bock - 2011 - ideals.illinois.edu,"Open-cell metal foams show promise as an emerging novel material for heat exchanger applications. The high surface-area-to-volume ratio suggests increased compactness and decrease in weight of heat exchanger designs. However, the metal foam structure appears",A geometric study of liquid retention in open-cell metal foams
 786,"Z Hussain, NSA Suffi",19,2011,[PDF] usm.my,J. Eng. Sci,"Z Hussain, NSA Suffin - J. Eng. Sci, 2011 - usm.my","… exist for the manufacture of aluminium foam, namely melt-gas injection, melt-foaming, powder
 metallurgy … the same method using crystalline raw cane sugar to produce open-cell metal foams
 with porosities … In this paper, aluminium foam with different cell sizes and densities were …",[PDF][PDF] Microstructure and mechanical behaviour of aluminium foam produced by sintering dissolution process using NaCl space holder
@@ -2140,10 +2092,6 @@ characteristics of PCMs embedded in open cell metal foams and expanded …",Num
 788,"Y Li, Z Li, F Ha",11,2014,[PDF] sciencedirect.com,Procedia Materials Science,"Y Li, Z Li, F Han - Procedia Materials Science, 2014 - Elsevier","… effect on the sound absorption behavior of closed cell or semi-open cell metal foams due to … It
 is found that the sound absorption coefficient of open cell aluminum foams increases with … The
 aluminum foam samples were produced by an air pressure infiltration process using …",Air flow resistance and sound absorption behavior of open-celled aluminum foams with spherical cells
-789,"Ö Bağcı, N Dukhan, M Özdemir",4 R,2016,No,International Journal of …,"Ö Bağcı, N Dukhan, M Özdemir… - International Journal of …, 2016 - Elsevier","While studies concerning heat transfer due to oscillating air (and few other gases) flow in metal foam are available, heat transfer due to oscillating water flow in metal foam has not been offered in the literature. This paper presents characteristics of heat transfer of",Experimental heat transfer due to oscillating water flow in open-cell metal foam
-790,"MS Aly, W Bleck, PF Schol",8 R,2005,No,Metal Powder Report,"MS Aly, W Bleck, PF Scholz - Metal Powder Report, 2005 - Elsevier","… Open porosity. Usually the blowing agent is a metal hydride such as TiH 2 or ZrH 2 . They
-were made by the Shinko-wire company in Japan. Figures 5a and 5b show micrographs of
-the cell wall microstructure of Distaloy and Astaloy foams, respectively …",How metal foams behave if the temperature rises
 791,"M Bracconi, M Ambrosetti, M Maestri, G Groppi",10,2017,[HTML] sciencedirect.com,Chemical Engineering …,"M Bracconi, M Ambrosetti, M Maestri, G Groppi… - Chemical Engineering …, 2017 - Elsevier","… cell, while the pore diameter is the size of the windows connecting adjacent open-cells. The
 accurate description of the foam structure has to consider the ligaments cross-sectional shape,
 which can move from circular to triangular and, by considering highly porous metal foams …",[HTML][HTML] A systematic procedure for the virtual reconstruction of open-cell foams
@@ -2183,13 +2131,12 @@ properties and represents a unique material in the field of metal foams …",[P
 803,"JH Davidson, FA Kulacki, D Savel",14,2009,No,International Journal of Heat and Mass …,"JH Davidson, FA Kulacki, D Savela - International Journal of Heat and Mass …, 2009 - Elsevier","… [1] on natural convection in water-saturated open cell copper foam to water-saturated reticulated …
 Prior work that forms the general basis for the present study considers natural convection in
 saturated metal and non-metal foams [1], [2], [3], in foam-like structures [4], and in …",Natural convection in water-saturated reticulated vitreous carbon foam
-805,"Ö Bağcı, N Dukhan, LA Kavurmacıoğl",4 R,2015,No,Transport in Porous Media,"Ö Bağcı, N Dukhan, LA Kavurmacıoğlu - Transport in Porous Media, 2015 - Springer","Experimental heat transfer data for water flow in commercial, open-cell-aluminum-foam cylinder heated at the wall by a constant heat flux, are presented. The measurements include wall temperature along flow direction as well as average inlet and outlet",Forced-convection measurements in the fully developed and exit regions of open-cell metal foam
+804,"P Åsholt, G Tokl",17,2005,No,US Patent 6,"P Åsholt, G Tokle - US Patent 6,866,084, 2005 - Google Patent","… 4. A method in accordance with claim 1 , wherein the bubbles are generated by a foaming means
+(5 … 2005-10-10, 2007-04-11, Georg Fischer Fahrzeugtechnik AG, Low pressure die-casting machine
+for metal foam articles … Insert molding of bulk amorphous alloy into open cell foam …",Method and means for producing moulded foam bodies
 806,"A Alderson, KL Alderson, PJ Davies",46,2012,No,US Patent …,"A Alderson, KL Alderson, PJ Davies… - US Patent …, 2012 - Google Patent","… As described in WO88/00523, auxetic foams were prepared as open-celled polymeric foams …
 The difference in the two cell structures can be seen in FIGS … The conversion in ductile metal foams
 typically takes place at room temperature and consists of applying uniaxial …",Process for the preparation of auxetic foams
-807,"R Rybár, M Beer, D Kudelas, B Pandul",7 R,2016,[PDF] srce.hr,Metalurgija,"R Rybár, M Beer, D Kudelas, B Pandula - Metalurgija, 2016 - hrcak.srce.hr","… Figure 1 Microscopic view of metal foam with 20 pores per inch produced by foaming agent
-method … from 100 μm to 30 mm, and porosity values range from 5 % to 75 % [6]. In general, metal
-foams can be divided into two main group - metal foam with open cell structure and …",Copper metal foam as an essential construction element of innovative heat exchanger
 808,"PS Liu, HB Qing, HL Hou, YQ Wang, YL Zhan",17,2016,No,Materials & Design,"PS Liu, HB Qing, HL Hou, YQ Wang, YL Zhang - Materials & Design, 2016 - Elsevier","… 207-213. [4] KJ Ji, HH Zhao, ZG Huang, ZD DaiPerformance of open-cell foam of Cu–Ni alloy …
 [8] J. BanhartCharacterisation and application of cellular metals and metal foams. Prog … N. Jha,
 A. Badkul, S. Das, A. Patel, G. GuptaTitanium cenosphere syntactic foam made through …",EMI shielding and thermal conductivity of a high porosity reticular titanium foam
@@ -2259,9 +2206,6 @@ pressure, which can be found from scanning electron micrographs of cell shape of
 830,"L Jin, KC Leon",11,2006,No,IEEE Transactions on Components and …,"L Jin, KC Leong - IEEE Transactions on Components and …, 2006 - ieeexplore.ieee.org","… 155–163, 2002. [13] TJ Lu, HA Stone, and MF Ashby, “Heat transfer in open-cell metal foams,”
 Acta Mater., vol. 46, pp. 3619–3635, 1998. [14] SY Kim, MH Lee, and LK Lee, “Heat removal by
 aluminum- foam heat sinks in a multi-air jet impingement,” IEEE Trans. Compon …",Heat transfer performance of metal foam heat sinks subjected to oscillating flow
-831,"F Stergioudi, G Karelis, E Paulidou, N Michailidi",9 R,2013,No,Ceramics International,"F Stergioudi, G Karelis, E Paulidou, N Michailidis - Ceramics International, 2013 - Elsevier","… for a variety of chemical reactions, is one of the most important metal oxides used … In this study,
-a space-holder method for manufacturing open-cell alumina–vanadium oxide foams using …
-influence of sintering process conditions on the microstructure of the resultant foam with a …",Production and structural characterization of tailored made open-cell alumina–vanadia foams
 832,PJ Veal,12,2010,[PDF] umass.edu,201,PJ Veale - 2010 - scholarworks.umass.edu,"… can be analyzed to determine their properties. In examining the crushing behavior of open …
 buckling until they come in contact with one another within the collapsed cell. This … agent is added
 to the metal causing air bubbles to “rise” to the surface of the material …",Investigation of the behavior of open cell aluminum foam
@@ -2280,9 +2224,6 @@ foams … The process starts with mixing metal powders (either pre- alloyed met
 837,"JM Thompson, A Goraltchouk",32,2011,[PDF] googleapis.com,US Patent App. 13/160,"JM Thompson, A Goraltchouk… - US Patent App. 13/160,325, 2011 - Google Patent","… Traditional manufacturing techniques address the creation of skins by cutting off such skins after
 the foaming process is complete in order to create a foam material which has an open-cell surface
 throughout the material. For example, in some processes, foams are made into …",Open-cell surface foam materials
-838,"W Fang, W ",8 R,2007,[PDF] foundryworld.com,ai,"W Fang, W Lu-cai, WU Jian-guo… - Research & …, 2007 - foundryworld.com","… Metal Foams: A Design Guide … hand, the reflection and refraction of sound wave will intensify
-due to the increasing bending degree of open cell with the … As shown in Table 3, the average
-absorption coefficients of open- pore aluminium foams are greater than 0.4, indicating the …",[PDF][PDF] Sound absorption property of open-pore aluminum foams
 839,"C Heisig, W Zhang, ST Oyam",122,1997,No,Applied catalysis B: environmental,"C Heisig, W Zhang, ST Oyama - Applied catalysis B: environmental, 1997 - Elsevier","… Newly developed metal monoliths provide thin walls and weight-and-flow resistance advantages
 [20] … An alternate form that addresses this mass-transfer problem is the open- cell foam. The foams
 are unitary structures similar to mono- liths, but possess a tortuous structure, so …",Decomposition of ozone using carbon-supported metal oxide catalysts
@@ -2310,3 +2251,6 @@ of the medium is fundamental in order to properly design a metal foam heat trans
 847,"W Yang, P He, T Lin, C Song, R Li, D Ji",22,2013,No,Materials Science and …,"W Yang, P He, T Lin, C Song, R Li, D Jia - Materials Science and …, 2013 - Elsevier","… The commercially available Nb (Boji Tianyu Rare Metal Co., Ltd., China) with purity more than
 99% was cut into 20 mm×20 … The open cell nickel foams (Inco Co., China) with nominal thicknesses
 of 1 mm, 2 mm, 4 mm and 6 mm were … The morphology of Ni foam is shown in Fig …",Diffusion bonding of ZrB2–SiC and Nb using dynamic compressed Ni foam interlayer
+848,"KC Kelley, JJ Votoupa",68,2005,No,US Patent 6,"KC Kelley, JJ Votoupal - US Patent 6,979,513, 2005 - Google Patent","… collectors from the bulk carbon foam, wire EDM (electrical discharge machining) provides a
+method that may better preserve the open-cell structure of … forms tab 21 may be pre-treated by
+a method that causes a conductive material, such as a metal, to wet the carbon foam …",Battery including carbon foam current collectors
