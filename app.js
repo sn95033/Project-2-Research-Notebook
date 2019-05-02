@@ -99,6 +99,7 @@ function buildCharts() {
   // @TODO: Use `d3.json` to fetch the sample data for the plots
   var url = `/bubble-data`
   d3.json(url).then(function(data) {
+    console.log(color);
     
     var ids = data.year;
     var labels = data.title;

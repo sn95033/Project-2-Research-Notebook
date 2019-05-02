@@ -1,2 +1,2 @@
-# Project-2-Research-Notebook
-Visualization of Research results
+# Project-2
+Project 2 - Rebecca Mih and Jessica Hills
