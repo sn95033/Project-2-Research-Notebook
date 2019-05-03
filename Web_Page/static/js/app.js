@@ -1,4 +1,35 @@
+function init() {
+  // Grab a reference to the dropdown select element
+  var propSelector = d3.select("#selProp");
 
+  // Use the list of sample names to populate the select options
+  d3.json("/properties").then((prop) => {
+    prop.forEach((group) => {
+      propSelector
+        .append("option")
+        .text(group)
+        .property("value", group);
+    });   
+  });
+  
+
+  var compSelector = d3.select("#selComp");
+
+  // Use the list of sample names to populate the select options
+  d3.json("/composition").then((comp) => {
+    comp.forEach((elem) => {
+      compSelector
+        .append("option")
+        .text(elem)
+        .property("value", elem);
+    });
+  });
+  // Use the first sample from the list to build the initial plots
+  buildChord();
+  buildAuthorBar("All","All");
+  buildJournalBar("All","All");
+  buildBubble("All","All");
+}
 
 function buildChord() {
   
@@ -10,16 +41,16 @@ function buildChord() {
 
     var svg = d3.select("#pie")
       .append("svg")
-        .attr("width", 500)
-        .attr("height", 500)
+        .attr("width", 600)
+        .attr("height", 600)
       .append("g")
-        .attr("transform", "translate(250,250)");
+        .attr("transform", "translate(300,250)");
 
     // create a matrix
     var matrix = chordData
 
-    var colors = [ "#006080", "#0099cc", "#00bfff", "#33ccff","#4dd2ff", "#66d9ff", "#99e6ff", "#ccf2ff","#440154ff", "#31668dff", "#37b578ff", "#fde725ff","#440154ff", "#31668dff", "#37b578ff", "#fde725ff","#440154ff", "#31668dff", "#37b578ff", "#fde725ff","#440154ff", "#31668dff"]
-
+    var colors = [ "#ff5733", "#ffbd33", "#dbff33", "#75ff33","#33ff57", "#33ffbd", "#ff8a33", "#fff033"," #a8ff33", "#5733ff", "#33DBff", "#ffeae5"," #bf4126", "#ffd5cc", "#ffab99", "#ff9680","#ff8166", "#ff6c4d", "#37b578ff", "#fde725ff","#440154ff", "#31668dff"]
+    
     var names = data.labels
 
     // give this matrix to d3.chord(): it will calculates all the info we need to draw arc and ribbon
@@ -71,7 +102,7 @@ function buildChord() {
       tooltip
         .transition()
         .duration(5000)
-        .style("opacity", 1)
+        .style("opacity", 0)
     }
 
     // Add the links between groups
@@ -92,43 +123,41 @@ function buildChord() {
   })
 }
 
-function buildBar(prop,comp) {
+function buildAuthorBar(prop,comp) {
 
   // @TODO: Use `d3.json` to fetch the sample data for the plots
-  var url = `/bar-data/${prop}/${comp}`
+  var url = `/author-bar-data/${prop}/${comp}`
   d3.json(url).then(function(data) {
 
     var values = data.values
-    var parsedValues = JSON.parse( values );
+    var parsedValues = JSON.parse(values);
     var label = data.labels
 
-   // console.log("Teating if fuction is called")
-    console.log("Labels", label)
     console.log(parsedValues)
+    console.log(label)
 
     var ctx = document.getElementById('myChart').getContext('2d');
-
-    var data = {
+    var myChart = new Chart(ctx, {
       type: 'bar',
       data: {
           labels: label.split(','),
           datasets: [{
               data: parsedValues,
               backgroundColor: [
-                  'rgba(255, 99, 132, 0.2)',
-                  'rgba(54, 162, 235, 0.2)',
-                  'rgba(255, 206, 86, 0.2)',
-                  'rgba(75, 192, 192, 0.2)',
-                  'rgba(153, 102, 255, 0.2)',
-                  'rgba(255, 159, 64, 0.2)'
+                  'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)'
               ],
               borderColor: [
-                  'rgba(255, 99, 132, 1)',
-                  'rgba(54, 162, 235, 1)',
-                  'rgba(255, 206, 86, 1)',
-                  'rgba(75, 192, 192, 1)',
-                  'rgba(153, 102, 255, 1)',
-                  'rgba(255, 159, 64, 1)'
+                'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)',
+                  'rgba(12, 51, 131, 0.9)'
               ],
               borderWidth: 1
           }],
@@ -137,7 +166,7 @@ function buildBar(prop,comp) {
         legend: { display: false},
         title: {
          display: true,
-         text: "Number of Articles Published per Institution"
+         text: "Number of Articles Published per Author"
         },
         scales: {
           yAxes: [{
@@ -147,26 +176,73 @@ function buildBar(prop,comp) {
           }]
         }
       }
-    }
+    });
+  })
+}
 
+function buildJournalBar(prop,comp) {
 
+  // @TODO: Use `d3.json` to fetch the sample data for the plots
+  var url = `/journal-bar-data/${prop}/${comp}`
+  d3.json(url).then(function(data) {
 
+    var values = data.values
+    var parsedValues = JSON.parse(values);
+    var label = data.labels
 
-    var myChart = new Chart(ctx, data);
+    console.log(parsedValues)
+    console.log(label)
+
+    var ctx = document.getElementById('myChartB').getContext('2d');
+    var myChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+          labels: label.split(','),
+          datasets: [{
+              data: parsedValues,
+              backgroundColor: [
+                  'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)'
+              ],
+              borderColor: [
+                'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)'
+              ],
+              borderWidth: 1
+          }],
+      },
+      options: {
+        legend: { display: false},
+        title: {
+         display: true,
+         text: "Number of Articles Published per Journal"
+        },
+        scales: {
+          yAxes: [{
+              ticks: {
+                  beginAtZero: true
+              }
+          }]
+        }
+      }
+    });
   })
 }
 
 function buildBubble(prop,comp) {
 
   // @TODO: Use `d3.json` to fetch the sample data for the plots
-  console.log("Comp", comp);
-  console.log("Prop", prop)
   var url = `/bubble-data/${prop}/${comp}`
   d3.json(url).then(function(data) {
     
-    
-
-    console.log(data);
     var ids = data.year;
     var labels = data.title;
     var values = data.citations;
@@ -178,10 +254,10 @@ function buildBubble(prop,comp) {
         y: values,
         text: labels,
         mode: 'markers',
-        name: prop,
         marker: {
           size: '5px',
-          color: values
+          color: values,
+          colorscale: 'Portland'
         }
       }
     ]
@@ -194,18 +270,16 @@ function buildBubble(prop,comp) {
   })
 }
 
-
-
-
-
 function PropOptionChanged(prop) {
   // Fetch new data each time a new sample is selected
   var comp = d3.select("#selComp").node().value
 
   Plotly.deleteTraces('bubble', 0)
 
+  buildAuthorBar(prop,comp);
+  buildJournalBar(prop,comp);
   buildBubble(prop,comp);
-  buildBar(prop,comp);
+  
 }
 
 function CompOptionChanged(comp) {
@@ -214,41 +288,9 @@ function CompOptionChanged(comp) {
 
   Plotly.deleteTraces('bubble', 0)
 
+  buildAuthorBar(prop,comp);
+  buildJournalBar(prop,comp);
   buildBubble(prop,comp);
-  buildBar(prop,comp);
-
-}
-
-function init() {
-  // Grab a reference to the dropdown select element
-  var propSelector = d3.select("#selProp");
-
-  // Use the list of sample names to populate the select options
-  d3.json("/properties").then((prop) => {
-    prop.forEach((group) => {
-      propSelector
-        .append("option")
-        .text(group)
-        .property("value", group);
-    });   
-  });
-  
-
-  var compSelector = d3.select("#selComp");
-
-  // Use the list of sample names to populate the select options
-  d3.json("/composition").then((comp) => {
-    comp.forEach((elem) => {
-      compSelector
-        .append("option")
-        .text(elem)
-        .property("value", elem);
-    });
-  });
-  // Use the first sample from the list to build the initial plots
-  buildBubble("All","All");
-  buildBar("All","All");
-  buildChord();
 }
 
 // Initialize the dashboard

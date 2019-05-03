@@ -1,4 +1,7 @@
-#selProp{
+#selProp {
     width:150px;   
 }
 
+#pie {
+    position:center;
+}

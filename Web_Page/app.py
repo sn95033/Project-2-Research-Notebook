@@ -71,8 +71,36 @@ def chordData():
 
     return jsonify(info)
 
-@app.route("/bar-data/<prop>/<comp>")
-def barData(prop,comp):
+@app.route("/author-bar-data/<prop>/<comp>")
+def AuthorbarData(prop,comp):
+    if prop == "All":
+        filtered=articles
+    else:
+        filtered=articles[articles[prop]==prop]
+    if comp != "All":
+        filtered = filtered[filtered['Composition']==comp]
+    # Format the data to send as json
+    journals=filtered.groupby('First Author',as_index=False).count().sort_values(by='Title',ascending=False)
+
+    values=[]
+    labels=[]
+
+    for i in range(5):
+        value=journals.iloc[i]['Authors']
+        label = journals.iloc[i]['First Author']
+        
+        values.append(value)
+        labels.append(label)
+        
+        i=i+1
+    data = {
+        "values": str(values),
+        "labels": str(labels),
+    }
+    return jsonify(data)
+
+@app.route("/journal-bar-data/<prop>/<comp>")
+def JournalbarData(prop,comp):
     if prop == "All":
         filtered=articles
     else:

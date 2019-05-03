@@ -17,38 +17,38 @@
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
         <h1>Research Analytics Dashboard</h1>
-        <p>Use the filters below to explore academic articles on open-cell metal foams</p>
+        <p>Use the filters below to explore academic articles on open celled metal foam</p>
       </div>
     </div>
-   
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-3"></div>
+      <div class="col-md-6">
         <div id="pie"></div>
       </div>
-    </div> 
-
+      <div class="col-md-3"></div>
+    </div>
     <div class="row">
       <div class="col-md-2">
-
-          <div class="well">
-            <h5>Select Property Category:</h5>
-            <select id="selProp" onchange="PropOptionChanged(this.value)" ></select>
-          </div>
-
-          <div class="well">
-            <h5>Select Composition:</h5>
-            <select id="selComp" onchange="CompOptionChanged(this.value)"></select>
-          </div>
-
+        <div class="well">
+          <h5>Select Property Category:</h5>
+          <select id="selProp" onchange="PropOptionChanged(this.value)" ></select>
+        </div>
+        <div class="well">
+          <h5>Select Composition:</h5>
+          <select id="selComp" onchange="CompOptionChanged(this.value)"></select>
+        </div>
       </div>
-
-      <div class="col-md-10">
-        <div id="bar"></div>
+      <div class="col-md-5">
+        <div id="bar">
         <canvas id="myChart" width="300" height="300"></canvas>
+        </div>
       </div>
-
+      <div class="col-md-5">
+        <div id="bar">
+        <canvas id="myChartB" width="300" height="300"></canvas>
+        </div>
+      </div>
     </div>
-  
     <div class="row">
       <div class="col-md-12">
         <div id="bubble"></div>
