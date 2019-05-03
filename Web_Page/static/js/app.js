@@ -49,7 +49,7 @@ function buildChord() {
     // create a matrix
     var matrix = chordData
 
-    var colors = [ "#00cc00","#008000", "#009900", "#00b300", "#00e600","#dbff33", "#a8ff33", "#ff8c00", "ff8a33","#EE9572", "#FFA54F", "#FFDAB9", "00cccc","00e6e6","#b3ecff","#00ffff","#80dfff","4dd2ff","#00e6e6","#00ace6", "#0086b3","006080","#000000"]
+    var colors = [ "#00cc00","#008000", "#009900", "#00b300", "#00e600","#dbff33", "#a8ff33", "#F28F38", "#ff8a33","#EE9572", "#FFA54F", "#FFDAB9", "00cccc","00e6e6","#b3ecff","#00ffff","#80dfff","4dd2ff","#1ac6ff","#00ace6", "#0086b3","006080","#000000"]
     //var colors = [ "#ff5733", "#ffbd33", "#dbff33", "#75ff33","#33ff57", "#33ffbd", "#ff8a33", "#fff033","#a8ff33", "#5733ff", "#33DBff", "#ffeae5","#bf4126", "#ffd5cc", "#ffab99", "#ff9680","#ff8166", "#FF6A6A", "#CD3333", "#B22222","#8B1A1A", "#B0171F", "#000000"]
     //var colors = [ "#104E8B", "#1E90FF", "#4682B4", "#B0E2FF","", "#5CACEE", "#B22222", "#8B1A1A","#FF6A6A", "#FF4040", "#B0171F", "#CD3333","#FF0000", "#FFFF00", "#00F5FF", "#FFD700","#00868B", "#EEB422", "#FFC125", "#FFA500","#FF8C00", "#000000"]
 
@@ -147,20 +147,20 @@ function buildAuthorBar(prop,comp) {
           datasets: [{
               data: parsedValues,
               backgroundColor: [
-                  'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)'
+                  'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)'
               ],
               borderColor: [
-                'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)',
-                  'rgba(12, 51, 131, 0.9)'
+                'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)',
+                  'rgba(0, 96, 128, 0.9)'
               ],
               borderWidth: 1
           }],
