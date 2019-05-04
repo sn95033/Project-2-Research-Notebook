@@ -120,7 +120,7 @@ function buildChord() {
       tooltip
         .style("opacity", 1)
         .html("Source: " + properties[d.source.index] + "<br>Target: " + properties[d.target.index])
-        .style("left", (d3.event.pageX - 800) + "px")
+        .style("left", (d3.event.pageX - 900) + "px")
         .style("top", (d3.event.pageY - 300) + "px")
     }
 
