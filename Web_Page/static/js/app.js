@@ -41,10 +41,10 @@ function buildChord() {
 
     var svg = d3.select("#pie")
       .append("svg")
-        .attr("width", 600)
-        .attr("height", 600)
+        .attr("width", 700)
+        .attr("height", 700)
       .append("g")
-        .attr("transform", "translate(300,250)");
+        .attr("transform", "translate(" + ((700/2)-70) + "," + 700/2 + ")");
 
     // create a matrix
     var matrix = chordData
@@ -52,10 +52,7 @@ function buildChord() {
     var colors = [ "#00cc00","#008000", "#009900", "#00b300", "#00e600","#dbff33", "#a8ff33", "#F28F38", "#ff8a33","#EE9572", "#FFA54F", "#FFDAB9", "00cccc","00e6e6","#b3ecff","#00ffff","#80dfff","4dd2ff","#1ac6ff","#00ace6", "#0086b3","006080","#000000"]
     //var colors = [ "#ff5733", "#ffbd33", "#dbff33", "#75ff33","#33ff57", "#33ffbd", "#ff8a33", "#fff033","#a8ff33", "#5733ff", "#33DBff", "#ffeae5","#bf4126", "#ffd5cc", "#ffab99", "#ff9680","#ff8166", "#FF6A6A", "#CD3333", "#B22222","#8B1A1A", "#B0171F", "#000000"]
     //var colors = [ "#104E8B", "#1E90FF", "#4682B4", "#B0E2FF","", "#5CACEE", "#B22222", "#8B1A1A","#FF6A6A", "#FF4040", "#B0171F", "#CD3333","#FF0000", "#FFFF00", "#00F5FF", "#FFD700","#00868B", "#EEB422", "#FFC125", "#FFA500","#FF8C00", "#000000"]
-
-    //     properties = ["Compression Strength","Tensile Strength","Elastic Modulus","Shear Strength","Plasticity","Thermal Conductivity","Thermal Resistivity","Permeability","Pressure Drop","Electrical Resistivity","Electrical Conductivity","Capacitance","Aluminum","Carbon","Copper","Graphite","Iron","Nickel","Silicon","Silver","Tantalum","Titanium","model"]
-    var names = data.labels
-
+    var properties = ["Compression Strength","Tensile Strength","Elastic Modulus","Shear Strength","Plasticity","Thermal Conductivity","Thermal Resistivity","Permeability","Pressure Drop","Electrical Resistivity","Electrical Conductivity","Capacitance","Aluminum","Carbon","Copper","Graphite","Iron","Nickel","Silicon","Silver","Tantalum","Titanium","Model"];
     // give this matrix to d3.chord(): it will calculates all the info we need to draw arc and ribbon
     var res = d3.chord()
         .padAngle(0.05)
@@ -78,6 +75,33 @@ function buildChord() {
           .outerRadius(240)
         )
 
+    svg
+    .datum(res)
+    .append("g")
+    .selectAll("g")
+    .data(function(d) { return d.groups; })
+    .enter()
+    .append("g")
+    .append("text")
+    .each(function(d){ return d.angle = (d.startAngle + d.endAngle) /2; })
+    .attr("dy", ".35em")
+    .attr("class", "text")
+    .style("pointer-events","none")
+    .attr("text-anchor", function(d) { return d.angle > Math.PI ? "end" : "start"; })
+    .attr("transform", function(d,i){
+        console.log(properties[i], d);
+        //rotate each label around the circle           
+        return "rotate(" + (d.angle * 180 / Math.PI - 90) + ")" + 
+              "translate(" + (240 + 10) + ")" +
+              (d.angle > Math.PI ? "rotate(180)" : "");
+    })
+    .text(function(d,i){
+        //set the text content
+        return properties[i];
+    })
+    .style("font-family","sans-serif")
+    .style("font-size","10px")
+
     // Add a tooltip div. Here I define the general feature of the tooltip: stuff that do not depend on the data point.
     // Its opacity is set to 0: we don't see it by default.
     var tooltip = d3.select("#pie")
@@ -95,16 +119,16 @@ function buildChord() {
     var showTooltip = function(d) {
       tooltip
         .style("opacity", 1)
-        .html("Source: " + names[d.source.index] + "<br>Target: " + names[d.target.index])
-        .style("left", (d3.event.pageX - 400) + "px")
-        .style("top", (d3.event.pageY - 250) + "px")
+        .html("Source: " + properties[d.source.index] + "<br>Target: " + properties[d.target.index])
+        .style("left", (d3.event.pageX - 800) + "px")
+        .style("top", (d3.event.pageY - 300) + "px")
     }
 
     // A function that change this tooltip when the leaves a point: just need to set opacity to 0 again
     var hideTooltip = function(d) {
       tooltip
         .transition()
-        .duration(5000)
+     //   .duration(5000)
         .style("opacity", 0)
     }
 
@@ -156,11 +180,11 @@ function buildAuthorBar(prop,comp) {
               ],
               borderColor: [
                 'rgba(0, 96, 128, 0.9)',
-                  'rgba(0, 96, 128, 0.9)',
-                  'rgba(0, 96, 128, 0.9)',
-                  'rgba(0, 96, 128, 0.9)',
-                  'rgba(0, 96, 128, 0.9)',
-                  'rgba(0, 96, 128, 0.9)'
+                'rgba(0, 96, 128, 0.9)',
+                'rgba(0, 96, 128, 0.9)',
+                'rgba(0, 96, 128, 0.9)',
+                'rgba(0, 96, 128, 0.9)',
+                'rgba(0, 96, 128, 0.9)'
               ],
               borderWidth: 1
           }],
@@ -169,7 +193,8 @@ function buildAuthorBar(prop,comp) {
         legend: { display: false},
         title: {
          display: true,
-         text: "Number of Articles Published per Author"
+         text: ["Most Prolific Authors",
+                "Number of Articles Published per Author"],
         },
         scales: {
           yAxes: [{
@@ -212,7 +237,7 @@ function buildJournalBar(prop,comp) {
                   'rgba(242, 143, 56, 0.9)'
               ],
               borderColor: [
-                'rgba(242, 143, 56, 0.9)',
+                  'rgba(242, 143, 56, 0.9)',
                   'rgba(242, 143, 56, 0.9)',
                   'rgba(242, 143, 56, 0.9)',
                   'rgba(242, 143, 56, 0.9)',
@@ -226,7 +251,8 @@ function buildJournalBar(prop,comp) {
         legend: { display: false},
         title: {
          display: true,
-         text: "Number of Articles Published per Journal"
+         text: ["Most Popular Journals for Publication",
+                "Number of Articles Published per Journal"],
         },
         scales: {
           yAxes: [{
@@ -258,7 +284,7 @@ function buildBubble(prop,comp) {
         text: labels,
         mode: 'markers',
         marker: {
-          size: '5px',
+          size: '20px',
           color: values,
           colorscale: 'Portland'
         }
@@ -266,7 +292,7 @@ function buildBubble(prop,comp) {
     ]
 
     let bubbleLayout = {
-      xaxis: {title: "Citations by Year"}
+      xaxis: {title: "Citations by Publication Year (Each circle is one article)"}
     }
       
     Plotly.plot("bubble", bubbleData, bubbleLayout);

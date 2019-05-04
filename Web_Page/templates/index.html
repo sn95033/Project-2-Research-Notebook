@@ -17,9 +17,21 @@
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
         <h1>Research Analytics Dashboard</h1>
-        <p>Use the filters below to explore academic articles on open celled metal foam</p>
+        <p>Interactively Exploring Publications for Open Celled Metal Foam</p>
+        <p>Jessica Hills and Rebecca Mih</p>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-12"></div>
+        <h4> The chord diagram is useful to visualize the contents of documents. In this case, academic publications for metal foams 
+          are classified by the materials used to make the foam (Aluminum, Copper, etc), and materials properties (such as strength, elasticity, conductivity etc.)
+          that were tested by the authors.
+
+          In this way, it's easy to what materials and properties researchers have studied the most, by the relative size of the arcs and chords in the diagram.
+          The chord diagram was created using D3.js library.
+        </h4>
+    </div>
+
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-6">
@@ -27,6 +39,16 @@
       </div>
       <div class="col-md-3"></div>
     </div>
+
+    <div class="row">
+        <div class="col-md-12"></div>
+          <h4> Analysis of the most prolific authors, and the most popular journals, by material and properties, is helpful for identifying potential collaborators
+            and their areas of expertise.  These plots were created using Chart.js library.
+          </h4>
+    </div>
+  <hr>
+  <hr>
+
     <div class="row">
       <div class="col-md-2">
         <div class="well">
@@ -49,6 +71,19 @@
         </div>
       </div>
     </div>
+<hr>
+<hr>
+    <div class="row">
+        <div class="col-md-12"></div>
+          <h4> This interactive bubble chart shows the evolution of research interest in metal foams, over time. Citations are the number of times
+            an article has be referenced in a later publication. The number of citations by others indicates the importance of the articles content. 
+            Seminal, ground-breaking articles may have hundreds or even thousands of citations.
+            The plot was created using the plotly library.
+          </h4>
+    </div>
+
+<hr>
+<hr>
     <div class="row">
       <div class="col-md-12">
         <div id="bubble"></div>

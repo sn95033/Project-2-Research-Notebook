@@ -42,7 +42,7 @@ def therm():
 def chordData():
     data = []
     
-    properties = ["Compression Strength","Tensile Strength","Elastic Modulus","Shear Strength","Plasticity","Thermal Conductivity","Thermal Resistivity","Permeability","Pressure Drop","Electrical Resistivity","Electrical Conductivity","Capacitance","Aluminum","Carbon","Copper","Graphite","Iron","Nickel","Silicon","Silver","Tantalum","Titanium","model"]
+    properties = ["Compression Strength","Tensile Strength","Elastic Modulus","Shear Strength","Plasticity","Thermal Conductivity","Thermal Resistivity","Permeability","Pressure Drop","Electrical Resistivity","Electrical Conductivity","Capacitance","Aluminum","Carbon","Copper","Graphite","Iron","Nickel","Silicon","Silver","Tantalum","Titanium","Model"]
 
     for prop in properties:
         df = articles.groupby(prop).count()
