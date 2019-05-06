@@ -120,14 +120,14 @@ function buildChord() {
       tooltip
         .style("opacity", 1)
         .html("Source: " + properties[d.source.index] + "<br>Target: " + properties[d.target.index])
-        .style("left", (d3.event.pageX - 900) + "px")
+        .style("left", (d3.event.pageX - 500) + "px")
         .style("top", (d3.event.pageY - 300) + "px")
     }
 
-    // A function that change this tooltip when the leaves a point: just need to set opacity to 0 again
+    // A function that change this tooltip when the eaves a point: just need to set opacity to 0 again
     var hideTooltip = function(d) {
       tooltip
-        .transition()
+     //   .transition()
      //   .duration(5000)
         .style("opacity", 0)
     }
